@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div class="dash">
+  <div class="dash-header">
+    <h1>Fitness analytics</h1>
+    <p>Fitbit Tracker Analytics Dashboard</p>
+  </div>
+
+  <div class="tab-bar" id="tabs">
+    <button class="tab-btn active" data-panel="activity">Activity overview</button>
+    <button class="tab-btn" data-panel="sleep">Sleep quality</button>
+    <button class="tab-btn" data-panel="temporal">Temporal patterns</button>
+    <button class="tab-btn" data-panel="segments">User segments</button>
+  </div>
+
+  <!-- PANEL: Activity overview -->
+  <div class="panel active" id="panel-activity">
+    <div class="metrics-grid">
+      <div class="metric-card">
+        <div class="label">Avg daily steps</div>
+        <div class="value accent-teal" id="m-steps">—</div>
+      </div>
+      <div class="metric-card">
+        <div class="label">Avg calories burned</div>
+        <div class="value accent-blue" id="m-calories">—</div>
+      </div>
+      <div class="metric-card">
+        <div class="label">Avg very active mins</div>
+        <div class="value accent-coral" id="m-active">—</div>
+      </div>
+      <div class="metric-card">
+        <div class="label">Avg sedentary mins</div>
+        <div class="value accent-purple" id="m-sedentary">—</div>
+      </div>
+    </div>
+
+    <div class="chart-grid">
+      <div class="chart-card wide">
+        <h3>Daily steps distribution</h3>
+        <p>Histogram · binned by 1,000 steps</p>
+        <div class="placeholder" id="chart-steps-hist">chart goes here</div>
+      </div>
+      <div class="chart-card">
+        <h3>Activity intensity breakdown</h3>
+        <p>Avg minutes per day across zones</p>
+        <div class="placeholder" id="chart-intensity">chart goes here</div>
+      </div>
+      <div class="chart-card">
+        <h3>Calorie burn over time</h3>
+        <p>Daily or weekly trend</p>
+        <div class="placeholder" id="chart-calories-trend">chart goes here</div>
+      </div>
+    </div>
+
+  
+  </div>
+
+  <!-- PANEL: Sleep quality -->
+  <div class="panel" id="panel-sleep">
+    <div class="metrics-grid">
+      <div class="metric-card">
+        <div class="label">Avg sleep duration</div>
+        <div class="value accent-blue" id="m-sleep-dur">—<span>hrs</span></div>
+      </div>
+      <div class="metric-card">
+        <div class="label">Avg sleep efficiency</div>
+        <div class="value accent-teal" id="m-sleep-eff">—<span>%</span></div>
+      </div>
+      <div class="metric-card">
+        <div class="label">Avg restless mins</div>
+        <div class="value accent-coral" id="m-restless">—</div>
+      </div>
+      <div class="metric-card">
+        <div class="label">Avg awake mins</div>
+        <div class="value accent-purple" id="m-awake">—</div>
+      </div>
+    </div>
+
+    <div class="chart-grid">
+      <div class="chart-card">
+        <h3>Sleep duration histogram</h3>
+        <p>Distribution of nightly hours across users</p>
+        <div class="placeholder" id="chart-sleep-hist">chart goes here</div>
+      </div>
+      <div class="chart-card">
+        <h3>Efficiency vs sedentary time</h3>
+        <p>Scatter · each point = one user/day</p>
+        <div class="placeholder" id="chart-sleep-scatter">chart goes here</div>
+      </div>
+    </div>
+
+    
+  </div>
+
+  <!-- PANEL: Temporal patterns -->
+  <div class="panel" id="panel-temporal">
+    <div class="metrics-grid">
+      <div class="metric-card">
+        <div class="label">Most active day</div>
+        <div class="value" style="font-size:18px;" id="m-best-day">—</div>
+      </div>
+      <div class="metric-card">
+        <div class="label">Least active day</div>
+        <div class="value" style="font-size:18px;" id="m-worst-day">—</div>
+      </div>
+      <div class="metric-card">
+        <div class="label">Peak activity hour</div>
+        <div class="value" style="font-size:18px;" id="m-peak-hour">—</div>
+      </div>
+      <div class="metric-card">
+        <div class="label">Consistency score</div>
+        <div class="value accent-teal" id="m-consistency">—</div>
+      </div>
+    </div>
+
+    <div class="chart-grid">
+      <div class="chart-card">
+        <h3>Steps by day of week</h3>
+        <p>Avg steps Mon–Sun across all users</p>
+        <div class="placeholder" id="chart-dow">chart goes here</div>
+      </div>
+      <div class="chart-card">
+        <h3>Hour × weekday heatmap</h3>
+        <p>Intensity of activity by time slot</p>
+        <div class="placeholder" id="chart-heatmap">chart goes here</div>
+      </div>
+    </div>
+
+
+  </div>
+
+  <!-- PANEL: User segments -->
+  <div class="panel" id="panel-segments">
+    <div class="metrics-grid">
+      <div class="metric-card">
+        <div class="label">High achievers</div>
+        <div class="value accent-teal" id="m-seg-high">—<span>users</span></div>
+      </div>
+      <div class="metric-card">
+        <div class="label">Moderate movers</div>
+        <div class="value accent-blue" id="m-seg-mod">—<span>users</span></div>
+      </div>
+      <div class="metric-card">
+        <div class="label">Sedentary</div>
+        <div class="value accent-coral" id="m-seg-sed">—<span>users</span></div>
+      </div>
+      <div class="metric-card">
+        <div class="label">Unclassified</div>
+        <div class="value" id="m-seg-other">—</div>
+      </div>
+    </div>
+
+    <div class="chart-grid">
+      <div class="chart-card">
+        <h3>Segment size distribution</h3>
+        <p>Share of users per cohort</p>
+        <div class="placeholder" id="chart-seg-pie">chart goes here</div>
+      </div>
+      <div class="chart-card">
+        <h3>Segment avg metrics</h3>
+        <p>Steps, calories, sleep by cohort</p>
+        <div class="placeholder" id="chart-seg-bar">chart goes here</div>
+      </div>
+      <div class="chart-card wide">
+        <h3>K-means feature space</h3>
+        <p>Scatter · steps vs active mins, colored by cluster</p>
+        <div class="placeholder" id="chart-kmeans">chart goes here</div>
+      </div>
+    </div>
+
+    
+  </div>
+</div>
+
+    
+    <script src="script.js" async defer></script>
+  </body>
+</html>
+
+
+
+<link href=""></link>

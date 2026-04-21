@@ -1,0 +1,137 @@
+  * { 
+  box-sizing: border-box;
+  margin: 0; padding: 0; 
+}
+
+  body { 
+    font-family: 
+    var(--font-sans); 
+  }
+
+  .dash {
+    padding: 1.5rem 1rem; 
+  }
+
+  .dash-header { 
+    margin-bottom: 1.5rem; 
+  }
+  .dash-header h1 { 
+    font-size: 18px; 
+    font-weight: 500; 
+    color: var(--color-text-primary); 
+  }
+  .dash-header p { 
+    font-size: 13px; 
+    color: var(--color-text-secondary); 
+    margin-top: 4px; 
+  }
+
+  .tab-bar { 
+    display: flex; 
+    gap: 6px; 
+    margin-bottom: 1.5rem; 
+    flex-wrap: wrap; 
+  }
+  .tab-btn {
+    padding: 7px 16px; font-size: 13px; font-weight: 400;
+    border: 0.5px solid var(--color-border-secondary);
+    border-radius: var(--border-radius-lg);
+    background: var(--color-background-primary);
+    color: var(--color-text-secondary);
+    cursor: pointer; transition: all 0.15s;
+  }
+  .tab-btn:hover { 
+    background: var(--color-background-secondary); 
+    color: var(--color-text-primary); 
+  }
+  .tab-btn.active {
+    background: var(--color-text-primary); 
+    color: var(--color-background-primary);
+    border-color: var(--color-text-primary);
+  }
+
+  .panel { 
+    display: none; 
+  }
+  .panel.active { 
+    display: block; 
+  }
+
+  .metrics-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 10px;
+    margin-bottom: 1.5rem;
+  }
+  .metric-card {
+    background: var(--color-background-secondary);
+    border-radius: var(--border-radius-md);
+    padding: 14px 16px;
+  }
+  .metric-card .label {
+    font-size: 12px; 
+    color: var(--color-text-secondary); 
+    margin-bottom: 6px;
+  }
+  .metric-card .value {
+    font-size: 24px; 
+    font-weight: 500; 
+    color: var(--color-text-primary);
+  }
+  .metric-card .value span {
+    font-size: 13px; 
+    font-weight: 400; color: var(--color-text-secondary); margin-left: 4px;
+  }
+  .metric-card .accent-teal { color: #1D9E75; }
+  .metric-card .accent-blue { color: #378ADD; }
+  .metric-card .accent-coral { color: #D85A30; }
+  .metric-card .accent-purple { color: #7F77DD; }
+
+  .chart-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 14px;
+  }
+  .chart-card {
+    background: var(--color-background-primary);
+    border: 0.5px solid var(--color-border-tertiary);
+    border-radius: var(--border-radius-lg);
+    padding: 1rem 1.25rem;
+    min-height: 240px;
+  }
+  .chart-card.wide { grid-column: 1 / -1; }
+  .chart-card h3 { 
+    font-size: 14px; 
+    font-weight: 500; 
+    color: var(--color-text-primary); 
+    margin-bottom: 4px; }
+  .chart-card p { 
+    font-size: 12px; 
+    color: var(--color-text-secondary); 
+    margin-bottom: 1rem; }
+
+  .placeholder {
+    display: flex; align-items: center; justify-content: center;
+    height: 160px;
+    border: 1px dashed var(--color-border-secondary);
+    border-radius: var(--border-radius-md);
+    color: var(--color-text-tertiary);
+    font-size: 12px;
+  }
+
+  .insight-row { 
+    display: flex; 
+    flex-wrap: wrap; 
+    gap: 8px; 
+    margin-top: 1.25rem; }
+  .insight-chip {
+    padding: 6px 14px; font-size: 12px;
+    border: 0.5px solid var(--color-border-secondary);
+    border-radius: 999px;
+    background: var(--color-background-secondary);
+    color: var(--color-text-secondary);
+    cursor: pointer; transition: all 0.15s;
+  }
+  .insight-chip:hover { 
+    color: var(--color-text-primary); 
+    border-color: var(--color-border-primary); }
