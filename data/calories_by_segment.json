@@ -1,0 +1,9431 @@
+[
+  {
+    "id": 1503960366,
+    "calories": 1819,
+    "segment": "high",
+    "very_active_mins": 33,
+    "steps": 11004
+  },
+  {
+    "id": 1503960366,
+    "calories": 2154,
+    "segment": "high",
+    "very_active_mins": 89,
+    "steps": 17609
+  },
+  {
+    "id": 1503960366,
+    "calories": 1944,
+    "segment": "high",
+    "very_active_mins": 56,
+    "steps": 12736
+  },
+  {
+    "id": 1503960366,
+    "calories": 1932,
+    "segment": "high",
+    "very_active_mins": 39,
+    "steps": 13231
+  },
+  {
+    "id": 1503960366,
+    "calories": 1886,
+    "segment": "high",
+    "very_active_mins": 28,
+    "steps": 12041
+  },
+  {
+    "id": 1503960366,
+    "calories": 1820,
+    "segment": "high",
+    "very_active_mins": 30,
+    "steps": 10970
+  },
+  {
+    "id": 1503960366,
+    "calories": 1889,
+    "segment": "high",
+    "very_active_mins": 33,
+    "steps": 12256
+  },
+  {
+    "id": 1503960366,
+    "calories": 1868,
+    "segment": "high",
+    "very_active_mins": 47,
+    "steps": 12262
+  },
+  {
+    "id": 1503960366,
+    "calories": 1843,
+    "segment": "high",
+    "very_active_mins": 40,
+    "steps": 11248
+  },
+  {
+    "id": 1503960366,
+    "calories": 1850,
+    "segment": "high",
+    "very_active_mins": 15,
+    "steps": 10016
+  },
+  {
+    "id": 1503960366,
+    "calories": 2030,
+    "segment": "high",
+    "very_active_mins": 43,
+    "steps": 14557
+  },
+  {
+    "id": 1503960366,
+    "calories": 2083,
+    "segment": "high",
+    "very_active_mins": 36,
+    "steps": 14844
+  },
+  {
+    "id": 1503960366,
+    "calories": 1861,
+    "segment": "high",
+    "very_active_mins": 27,
+    "steps": 11974
+  },
+  {
+    "id": 1503960366,
+    "calories": 1755,
+    "segment": "high",
+    "very_active_mins": 17,
+    "steps": 10198
+  },
+  {
+    "id": 1503960366,
+    "calories": 1895,
+    "segment": "high",
+    "very_active_mins": 46,
+    "steps": 12521
+  },
+  {
+    "id": 1503960366,
+    "calories": 1883,
+    "segment": "high",
+    "very_active_mins": 32,
+    "steps": 12432
+  },
+  {
+    "id": 1503960366,
+    "calories": 1755,
+    "segment": "high",
+    "very_active_mins": 44,
+    "steps": 10057
+  },
+  {
+    "id": 1503960366,
+    "calories": 1811,
+    "segment": "high",
+    "very_active_mins": 26,
+    "steps": 10990
+  },
+  {
+    "id": 1503960366,
+    "calories": 50,
+    "segment": "high",
+    "very_active_mins": 0,
+    "steps": 224
+  },
+  {
+    "id": 1624580081,
+    "calories": 1373,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 1810
+  },
+  {
+    "id": 1624580081,
+    "calories": 1264,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 815
+  },
+  {
+    "id": 1624580081,
+    "calories": 1350,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 1985
+  },
+  {
+    "id": 1624580081,
+    "calories": 1342,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 1905
+  },
+  {
+    "id": 1624580081,
+    "calories": 1300,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 1552
+  },
+  {
+    "id": 1624580081,
+    "calories": 1313,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 1675
+  },
+  {
+    "id": 1624580081,
+    "calories": 1498,
+    "segment": "moderate",
+    "very_active_mins": 7,
+    "steps": 4506
+  },
+  {
+    "id": 1624580081,
+    "calories": 1541,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 9218
+  },
+  {
+    "id": 1624580081,
+    "calories": 1327,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 1556
+  },
+  {
+    "id": 1624580081,
+    "calories": 1452,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 2910
+  },
+  {
+    "id": 1624580081,
+    "calories": 1574,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 18464
+  },
+  {
+    "id": 1624580081,
+    "calories": 1308,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 1335
+  },
+  {
+    "id": 1624580081,
+    "calories": 1276,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 1004
+  },
+  {
+    "id": 1624580081,
+    "calories": 1278,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 1111
+  },
+  {
+    "id": 1624580081,
+    "calories": 1409,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 6344
+  },
+  {
+    "id": 1624580081,
+    "calories": 1370,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 3572
+  },
+  {
+    "id": 1624580081,
+    "calories": 1555,
+    "segment": "moderate",
+    "very_active_mins": 7,
+    "steps": 3910
+  },
+  {
+    "id": 1624580081,
+    "calories": 1469,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 10000
+  },
+  {
+    "id": 1624580081,
+    "calories": 706,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 6627
+  },
+  {
+    "id": 1644430081,
+    "calories": 3323,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 4636
+  },
+  {
+    "id": 1644430081,
+    "calories": 4029,
+    "segment": "moderate",
+    "very_active_mins": 34,
+    "steps": 20237
+  },
+  {
+    "id": 1644430081,
+    "calories": 3436,
+    "segment": "moderate",
+    "very_active_mins": 59,
+    "steps": 12912
+  },
+  {
+    "id": 1644430081,
+    "calories": 2444,
+    "segment": "moderate",
+    "very_active_mins": 4,
+    "steps": 2819
+  },
+  {
+    "id": 1644430081,
+    "calories": 3098,
+    "segment": "moderate",
+    "very_active_mins": 5,
+    "steps": 9921
+  },
+  {
+    "id": 1644430081,
+    "calories": 2925,
+    "segment": "moderate",
+    "very_active_mins": 18,
+    "steps": 8046
+  },
+  {
+    "id": 1644430081,
+    "calories": 3202,
+    "segment": "moderate",
+    "very_active_mins": 3,
+    "steps": 11166
+  },
+  {
+    "id": 1644430081,
+    "calories": 2928,
+    "segment": "moderate",
+    "very_active_mins": 7,
+    "steps": 7842
+  },
+  {
+    "id": 1644430081,
+    "calories": 3290,
+    "segment": "moderate",
+    "very_active_mins": 18,
+    "steps": 13840
+  },
+  {
+    "id": 1644430081,
+    "calories": 489,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 1329
+  },
+  {
+    "id": 1844505072,
+    "calories": 1969,
+    "segment": "sedentary",
+    "very_active_mins": 9,
+    "steps": 6847
+  },
+  {
+    "id": 1844505072,
+    "calories": 1889,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 5367
+  },
+  {
+    "id": 1844505072,
+    "calories": 1636,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 2841
+  },
+  {
+    "id": 1844505072,
+    "calories": 1347,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 1844505072,
+    "calories": 1347,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 1844505072,
+    "calories": 1349,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 7
+  },
+  {
+    "id": 1844505072,
+    "calories": 1965,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 6344
+  },
+  {
+    "id": 1844505072,
+    "calories": 1824,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 5316
+  },
+  {
+    "id": 1844505072,
+    "calories": 1807,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 4979
+  },
+  {
+    "id": 1844505072,
+    "calories": 1971,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 6556
+  },
+  {
+    "id": 1844505072,
+    "calories": 1888,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 5430
+  },
+  {
+    "id": 1844505072,
+    "calories": 399,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 1927972279,
+    "calories": 2590,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 4317
+  },
+  {
+    "id": 1927972279,
+    "calories": 2783,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 5662
+  },
+  {
+    "id": 1927972279,
+    "calories": 2449,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 3198
+  },
+  {
+    "id": 1927972279,
+    "calories": 2380,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 2352
+  },
+  {
+    "id": 1927972279,
+    "calories": 2344,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 2234
+  },
+  {
+    "id": 1927972279,
+    "calories": 2202,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 1259
+  },
+  {
+    "id": 1927972279,
+    "calories": 2130,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 768
+  },
+  {
+    "id": 1927972279,
+    "calories": 2088,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 519
+  },
+  {
+    "id": 1927972279,
+    "calories": 2443,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 2523
+  },
+  {
+    "id": 1927972279,
+    "calories": 2442,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 2105
+  },
+  {
+    "id": 1927972279,
+    "calories": 2255,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 1209
+  },
+  {
+    "id": 1927972279,
+    "calories": 942,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 24
+  },
+  {
+    "id": 2022484408,
+    "calories": 2645,
+    "segment": "high",
+    "very_active_mins": 72,
+    "steps": 13603
+  },
+  {
+    "id": 2022484408,
+    "calories": 2040,
+    "segment": "high",
+    "very_active_mins": 0,
+    "steps": 5477
+  },
+  {
+    "id": 2022484408,
+    "calories": 2395,
+    "segment": "high",
+    "very_active_mins": 25,
+    "steps": 11144
+  },
+  {
+    "id": 2022484408,
+    "calories": 2581,
+    "segment": "high",
+    "very_active_mins": 62,
+    "steps": 15313
+  },
+  {
+    "id": 2022484408,
+    "calories": 2735,
+    "segment": "high",
+    "very_active_mins": 36,
+    "steps": 10805
+  },
+  {
+    "id": 2022484408,
+    "calories": 2733,
+    "segment": "high",
+    "very_active_mins": 47,
+    "steps": 15392
+  },
+  {
+    "id": 2022484408,
+    "calories": 3021,
+    "segment": "high",
+    "very_active_mins": 72,
+    "steps": 18247
+  },
+  {
+    "id": 2022484408,
+    "calories": 2577,
+    "segment": "high",
+    "very_active_mins": 40,
+    "steps": 13023
+  },
+  {
+    "id": 2022484408,
+    "calories": 2811,
+    "segment": "high",
+    "very_active_mins": 44,
+    "steps": 16267
+  },
+  {
+    "id": 2022484408,
+    "calories": 2458,
+    "segment": "high",
+    "very_active_mins": 1,
+    "steps": 10005
+  },
+  {
+    "id": 2022484408,
+    "calories": 2568,
+    "segment": "high",
+    "very_active_mins": 41,
+    "steps": 10106
+  },
+  {
+    "id": 2022484408,
+    "calories": 1140,
+    "segment": "high",
+    "very_active_mins": 41,
+    "steps": 6717
+  },
+  {
+    "id": 2026352035,
+    "calories": 1407,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 2605
+  },
+  {
+    "id": 2026352035,
+    "calories": 1237,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 1229
+  },
+  {
+    "id": 2026352035,
+    "calories": 1330,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 2308
+  },
+  {
+    "id": 2026352035,
+    "calories": 1583,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 6679
+  },
+  {
+    "id": 2026352035,
+    "calories": 1538,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 5645
+  },
+  {
+    "id": 2026352035,
+    "calories": 1421,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 3180
+  },
+  {
+    "id": 2026352035,
+    "calories": 1392,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 2767
+  },
+  {
+    "id": 2026352035,
+    "calories": 1425,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 3762
+  },
+  {
+    "id": 2026352035,
+    "calories": 1413,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 3098
+  },
+  {
+    "id": 2026352035,
+    "calories": 1515,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 5142
+  },
+  {
+    "id": 2026352035,
+    "calories": 1405,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 3279
+  },
+  {
+    "id": 2026352035,
+    "calories": 600,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 1019
+  },
+  {
+    "id": 2320127002,
+    "calories": 1324,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 2320127002,
+    "calories": 1324,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 2320127002,
+    "calories": 1324,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 2320127002,
+    "calories": 1324,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 2320127002,
+    "calories": 1708,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 4931
+  },
+  {
+    "id": 2320127002,
+    "calories": 1950,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 6999
+  },
+  {
+    "id": 2320127002,
+    "calories": 1508,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 1846
+  },
+  {
+    "id": 2320127002,
+    "calories": 1625,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 3417
+  },
+  {
+    "id": 2320127002,
+    "calories": 1772,
+    "segment": "sedentary",
+    "very_active_mins": 1,
+    "steps": 4863
+  },
+  {
+    "id": 2320127002,
+    "calories": 1530,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 2277
+  },
+  {
+    "id": 2320127002,
+    "calories": 2206,
+    "segment": "sedentary",
+    "very_active_mins": 10,
+    "steps": 11230
+  },
+  {
+    "id": 2320127002,
+    "calories": 790,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 2098
+  },
+  {
+    "id": 2347167796,
+    "calories": 2041,
+    "segment": "moderate",
+    "very_active_mins": 2,
+    "steps": 10272
+  },
+  {
+    "id": 2347167796,
+    "calories": 2187,
+    "segment": "moderate",
+    "very_active_mins": 21,
+    "steps": 10533
+  },
+  {
+    "id": 2347167796,
+    "calories": 1929,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 6760
+  },
+  {
+    "id": 2347167796,
+    "calories": 1935,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 8328
+  },
+  {
+    "id": 2347167796,
+    "calories": 2438,
+    "segment": "moderate",
+    "very_active_mins": 51,
+    "steps": 15459
+  },
+  {
+    "id": 2347167796,
+    "calories": 2035,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 7485
+  },
+  {
+    "id": 2347167796,
+    "calories": 2099,
+    "segment": "moderate",
+    "very_active_mins": 21,
+    "steps": 10254
+  },
+  {
+    "id": 2347167796,
+    "calories": 2096,
+    "segment": "moderate",
+    "very_active_mins": 18,
+    "steps": 10114
+  },
+  {
+    "id": 2347167796,
+    "calories": 2058,
+    "segment": "moderate",
+    "very_active_mins": 14,
+    "steps": 11107
+  },
+  {
+    "id": 2347167796,
+    "calories": 2338,
+    "segment": "moderate",
+    "very_active_mins": 15,
+    "steps": 10320
+  },
+  {
+    "id": 2347167796,
+    "calories": 2104,
+    "segment": "moderate",
+    "very_active_mins": 2,
+    "steps": 10209
+  },
+  {
+    "id": 2347167796,
+    "calories": 2488,
+    "segment": "moderate",
+    "very_active_mins": 16,
+    "steps": 16081
+  },
+  {
+    "id": 2347167796,
+    "calories": 2164,
+    "segment": "moderate",
+    "very_active_mins": 12,
+    "steps": 10078
+  },
+  {
+    "id": 2347167796,
+    "calories": 2009,
+    "segment": "moderate",
+    "very_active_mins": 5,
+    "steps": 10001
+  },
+  {
+    "id": 2347167796,
+    "calories": 399,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 2873212765,
+    "calories": 1335,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 890
+  },
+  {
+    "id": 2873212765,
+    "calories": 1559,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 2214
+  },
+  {
+    "id": 2873212765,
+    "calories": 1845,
+    "segment": "moderate",
+    "very_active_mins": 3,
+    "steps": 7640
+  },
+  {
+    "id": 2873212765,
+    "calories": 2046,
+    "segment": "moderate",
+    "very_active_mins": 6,
+    "steps": 9713
+  },
+  {
+    "id": 2873212765,
+    "calories": 1953,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 8432
+  },
+  {
+    "id": 2873212765,
+    "calories": 1910,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 7350
+  },
+  {
+    "id": 2873212765,
+    "calories": 2035,
+    "segment": "moderate",
+    "very_active_mins": 5,
+    "steps": 9353
+  },
+  {
+    "id": 2873212765,
+    "calories": 1944,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 7157
+  },
+  {
+    "id": 2873212765,
+    "calories": 2257,
+    "segment": "moderate",
+    "very_active_mins": 46,
+    "steps": 14103
+  },
+  {
+    "id": 2873212765,
+    "calories": 1724,
+    "segment": "moderate",
+    "very_active_mins": 1,
+    "steps": 5290
+  },
+  {
+    "id": 2873212765,
+    "calories": 1741,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 7497
+  },
+  {
+    "id": 3372868164,
+    "calories": 1852,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 5785
+  },
+  {
+    "id": 3372868164,
+    "calories": 2069,
+    "segment": "moderate",
+    "very_active_mins": 24,
+    "steps": 7625
+  },
+  {
+    "id": 3372868164,
+    "calories": 1816,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 4706
+  },
+  {
+    "id": 3372868164,
+    "calories": 1878,
+    "segment": "moderate",
+    "very_active_mins": 20,
+    "steps": 5861
+  },
+  {
+    "id": 3372868164,
+    "calories": 1787,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 4460
+  },
+  {
+    "id": 3372868164,
+    "calories": 2010,
+    "segment": "moderate",
+    "very_active_mins": 17,
+    "steps": 6406
+  },
+  {
+    "id": 3372868164,
+    "calories": 2038,
+    "segment": "moderate",
+    "very_active_mins": 14,
+    "steps": 7392
+  },
+  {
+    "id": 3372868164,
+    "calories": 1815,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 5551
+  },
+  {
+    "id": 3372868164,
+    "calories": 2062,
+    "segment": "moderate",
+    "very_active_mins": 21,
+    "steps": 8827
+  },
+  {
+    "id": 3372868164,
+    "calories": 1276,
+    "segment": "moderate",
+    "very_active_mins": 22,
+    "steps": 4662
+  },
+  {
+    "id": 3977333714,
+    "calories": 1288,
+    "segment": "high",
+    "very_active_mins": 0,
+    "steps": 4499
+  },
+  {
+    "id": 3977333714,
+    "calories": 1490,
+    "segment": "high",
+    "very_active_mins": 0,
+    "steps": 7618
+  },
+  {
+    "id": 3977333714,
+    "calories": 1630,
+    "segment": "high",
+    "very_active_mins": 29,
+    "steps": 11508
+  },
+  {
+    "id": 3977333714,
+    "calories": 1648,
+    "segment": "high",
+    "very_active_mins": 16,
+    "steps": 11943
+  },
+  {
+    "id": 3977333714,
+    "calories": 1649,
+    "segment": "high",
+    "very_active_mins": 26,
+    "steps": 12303
+  },
+  {
+    "id": 3977333714,
+    "calories": 1783,
+    "segment": "high",
+    "very_active_mins": 24,
+    "steps": 15425
+  },
+  {
+    "id": 3977333714,
+    "calories": 1431,
+    "segment": "high",
+    "very_active_mins": 0,
+    "steps": 8422
+  },
+  {
+    "id": 3977333714,
+    "calories": 1524,
+    "segment": "high",
+    "very_active_mins": 0,
+    "steps": 10226
+  },
+  {
+    "id": 3977333714,
+    "calories": 1697,
+    "segment": "high",
+    "very_active_mins": 35,
+    "steps": 14583
+  },
+  {
+    "id": 3977333714,
+    "calories": 1232,
+    "segment": "high",
+    "very_active_mins": 15,
+    "steps": 3573
+  },
+  {
+    "id": 3977333714,
+    "calories": 1223,
+    "segment": "high",
+    "very_active_mins": 1,
+    "steps": 3108
+  },
+  {
+    "id": 3977333714,
+    "calories": 182,
+    "segment": "high",
+    "very_active_mins": 0,
+    "steps": 759
+  },
+  {
+    "id": 4020332650,
+    "calories": 2990,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 5543
+  },
+  {
+    "id": 4020332650,
+    "calories": 2480,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 3226
+  },
+  {
+    "id": 4020332650,
+    "calories": 2570,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 3023
+  },
+  {
+    "id": 4020332650,
+    "calories": 3016,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 5906
+  },
+  {
+    "id": 4020332650,
+    "calories": 3830,
+    "segment": "sedentary",
+    "very_active_mins": 25,
+    "steps": 12483
+  },
+  {
+    "id": 4020332650,
+    "calories": 3706,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 8940
+  },
+  {
+    "id": 4020332650,
+    "calories": 2024,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 368
+  },
+  {
+    "id": 4020332650,
+    "calories": 2980,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 5702
+  },
+  {
+    "id": 4020332650,
+    "calories": 3728,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 10330
+  },
+  {
+    "id": 4020332650,
+    "calories": 3348,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 8778
+  },
+  {
+    "id": 4020332650,
+    "calories": 3162,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 6662
+  },
+  {
+    "id": 4020332650,
+    "calories": 3140,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 6309
+  },
+  {
+    "id": 4020332650,
+    "calories": 1980,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 1951
+  },
+  {
+    "id": 4020332650,
+    "calories": 3681,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 5563
+  },
+  {
+    "id": 4020332650,
+    "calories": 3444,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 4370
+  },
+  {
+    "id": 4020332650,
+    "calories": 3510,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 7144
+  },
+  {
+    "id": 4020332650,
+    "calories": 4010,
+    "segment": "sedentary",
+    "very_active_mins": 31,
+    "steps": 2106
+  },
+  {
+    "id": 4020332650,
+    "calories": 2976,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 4152
+  },
+  {
+    "id": 4020332650,
+    "calories": 3418,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 5400
+  },
+  {
+    "id": 4020332650,
+    "calories": 3439,
+    "segment": "sedentary",
+    "very_active_mins": 18,
+    "steps": 7428
+  },
+  {
+    "id": 4020332650,
+    "calories": 3338,
+    "segment": "sedentary",
+    "very_active_mins": 15,
+    "steps": 5351
+  },
+  {
+    "id": 4020332650,
+    "calories": 2892,
+    "segment": "sedentary",
+    "very_active_mins": 3,
+    "steps": 4299
+  },
+  {
+    "id": 4020332650,
+    "calories": 3313,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 6107
+  },
+  {
+    "id": 4020332650,
+    "calories": 3118,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 6429
+  },
+  {
+    "id": 4020332650,
+    "calories": 2966,
+    "segment": "sedentary",
+    "very_active_mins": 7,
+    "steps": 6880
+  },
+  {
+    "id": 4020332650,
+    "calories": 3253,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 7476
+  },
+  {
+    "id": 4020332650,
+    "calories": 3032,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 6581
+  },
+  {
+    "id": 4020332650,
+    "calories": 4034,
+    "segment": "sedentary",
+    "very_active_mins": 6,
+    "steps": 10480
+  },
+  {
+    "id": 4020332650,
+    "calories": 3264,
+    "segment": "sedentary",
+    "very_active_mins": 20,
+    "steps": 7734
+  },
+  {
+    "id": 4020332650,
+    "calories": 2817,
+    "segment": "sedentary",
+    "very_active_mins": 5,
+    "steps": 5129
+  },
+  {
+    "id": 4020332650,
+    "calories": 2507,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 2993
+  },
+  {
+    "id": 4020332650,
+    "calories": 446,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 8
+  },
+  {
+    "id": 4057192912,
+    "calories": 1777,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 4057192912,
+    "calories": 1777,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 4057192912,
+    "calories": 2453,
+    "segment": "sedentary",
+    "very_active_mins": 30,
+    "steps": 8433
+  },
+  {
+    "id": 4057192912,
+    "calories": 1776,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 4057192912,
+    "calories": 1935,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 2139
+  },
+  {
+    "id": 4057192912,
+    "calories": 1776,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 4057192912,
+    "calories": 1870,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 949
+  },
+  {
+    "id": 4057192912,
+    "calories": 1777,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 4057192912,
+    "calories": 1782,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 44
+  },
+  {
+    "id": 4057192912,
+    "calories": 1978,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 2660
+  },
+  {
+    "id": 4057192912,
+    "calories": 2296,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 5561
+  },
+  {
+    "id": 4057192912,
+    "calories": 2484,
+    "segment": "sedentary",
+    "very_active_mins": 7,
+    "steps": 7239
+  },
+  {
+    "id": 4057192912,
+    "calories": 1787,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 7
+  },
+  {
+    "id": 4057192912,
+    "calories": 1776,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 4057192912,
+    "calories": 1776,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 4057192912,
+    "calories": 2005,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 2275
+  },
+  {
+    "id": 4057192912,
+    "calories": 1778,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 8
+  },
+  {
+    "id": 4057192912,
+    "calories": 2293,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 5137
+  },
+  {
+    "id": 4057192912,
+    "calories": 2259,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 5419
+  },
+  {
+    "id": 4057192912,
+    "calories": 1776,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 4057192912,
+    "calories": 1776,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 4057192912,
+    "calories": 1776,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 4057192912,
+    "calories": 1776,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 4057192912,
+    "calories": 1776,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 4057192912,
+    "calories": 1776,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 4057192912,
+    "calories": 1780,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 18
+  },
+  {
+    "id": 4057192912,
+    "calories": 1778,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 4
+  },
+  {
+    "id": 4057192912,
+    "calories": 2360,
+    "segment": "sedentary",
+    "very_active_mins": 2,
+    "steps": 8426
+  },
+  {
+    "id": 4057192912,
+    "calories": 1952,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 1650
+  },
+  {
+    "id": 4057192912,
+    "calories": 2101,
+    "segment": "sedentary",
+    "very_active_mins": 1,
+    "steps": 3434
+  },
+  {
+    "id": 4057192912,
+    "calories": 2393,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 6801
+  },
+  {
+    "id": 4057192912,
+    "calories": 538,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 187
+  },
+  {
+    "id": 4319703577,
+    "calories": 1958,
+    "segment": "moderate",
+    "very_active_mins": 3,
+    "steps": 5643
+  },
+  {
+    "id": 4319703577,
+    "calories": 2141,
+    "segment": "moderate",
+    "very_active_mins": 4,
+    "steps": 9043
+  },
+  {
+    "id": 4319703577,
+    "calories": 2129,
+    "segment": "moderate",
+    "very_active_mins": 4,
+    "steps": 8144
+  },
+  {
+    "id": 4319703577,
+    "calories": 2216,
+    "segment": "moderate",
+    "very_active_mins": 14,
+    "steps": 9343
+  },
+  {
+    "id": 4319703577,
+    "calories": 2154,
+    "segment": "moderate",
+    "very_active_mins": 15,
+    "steps": 8405
+  },
+  {
+    "id": 4319703577,
+    "calories": 2178,
+    "segment": "moderate",
+    "very_active_mins": 12,
+    "steps": 8223
+  },
+  {
+    "id": 4319703577,
+    "calories": 2308,
+    "segment": "moderate",
+    "very_active_mins": 5,
+    "steps": 10067
+  },
+  {
+    "id": 4319703577,
+    "calories": 2201,
+    "segment": "moderate",
+    "very_active_mins": 3,
+    "steps": 8359
+  },
+  {
+    "id": 4319703577,
+    "calories": 2341,
+    "segment": "moderate",
+    "very_active_mins": 8,
+    "steps": 10946
+  },
+  {
+    "id": 4319703577,
+    "calories": 2236,
+    "segment": "moderate",
+    "very_active_mins": 7,
+    "steps": 9130
+  },
+  {
+    "id": 4319703577,
+    "calories": 2069,
+    "segment": "moderate",
+    "very_active_mins": 4,
+    "steps": 6544
+  },
+  {
+    "id": 4388161847,
+    "calories": 1878,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 4388161847,
+    "calories": 1878,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 4388161847,
+    "calories": 1878,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 4388161847,
+    "calories": 1878,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 4388161847,
+    "calories": 1878,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 4388161847,
+    "calories": 1878,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 4388161847,
+    "calories": 1878,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 4388161847,
+    "calories": 1296,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 4445114986,
+    "calories": 2010,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 2303
+  },
+  {
+    "id": 4445114986,
+    "calories": 2032,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 2600
+  },
+  {
+    "id": 4445114986,
+    "calories": 2227,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 4804
+  },
+  {
+    "id": 4445114986,
+    "calories": 2133,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 3271
+  },
+  {
+    "id": 4445114986,
+    "calories": 2317,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 5406
+  },
+  {
+    "id": 4445114986,
+    "calories": 2058,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 3146
+  },
+  {
+    "id": 4445114986,
+    "calories": 1935,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 2422
+  },
+  {
+    "id": 4445114986,
+    "calories": 2217,
+    "segment": "sedentary",
+    "very_active_mins": 1,
+    "steps": 4239
+  },
+  {
+    "id": 4445114986,
+    "calories": 2374,
+    "segment": "sedentary",
+    "very_active_mins": 28,
+    "steps": 6911
+  },
+  {
+    "id": 4445114986,
+    "calories": 2335,
+    "segment": "sedentary",
+    "very_active_mins": 24,
+    "steps": 6667
+  },
+  {
+    "id": 4445114986,
+    "calories": 2303,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 5543
+  },
+  {
+    "id": 4445114986,
+    "calories": 2210,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 4195
+  },
+  {
+    "id": 4445114986,
+    "calories": 2424,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 6625
+  },
+  {
+    "id": 4445114986,
+    "calories": 2297,
+    "segment": "sedentary",
+    "very_active_mins": 23,
+    "steps": 5986
+  },
+  {
+    "id": 4445114986,
+    "calories": 745,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 278
+  },
+  {
+    "id": 4558609924,
+    "calories": 1902,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 5336
+  },
+  {
+    "id": 4558609924,
+    "calories": 1680,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 3183
+  },
+  {
+    "id": 4558609924,
+    "calories": 1901,
+    "segment": "moderate",
+    "very_active_mins": 1,
+    "steps": 6176
+  },
+  {
+    "id": 4558609924,
+    "calories": 2078,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 8205
+  },
+  {
+    "id": 4558609924,
+    "calories": 1876,
+    "segment": "moderate",
+    "very_active_mins": 24,
+    "steps": 6799
+  },
+  {
+    "id": 4558609924,
+    "calories": 1853,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 5668
+  },
+  {
+    "id": 4558609924,
+    "calories": 2235,
+    "segment": "moderate",
+    "very_active_mins": 27,
+    "steps": 7998
+  },
+  {
+    "id": 4558609924,
+    "calories": 1778,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 4195
+  },
+  {
+    "id": 4558609924,
+    "calories": 1882,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 5512
+  },
+  {
+    "id": 4558609924,
+    "calories": 1906,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 6263
+  },
+  {
+    "id": 4558609924,
+    "calories": 2149,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 8828
+  },
+  {
+    "id": 4558609924,
+    "calories": 722,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 1260
+  },
+  {
+    "id": 4702921684,
+    "calories": 2886,
+    "segment": "moderate",
+    "very_active_mins": 4,
+    "steps": 6506
+  },
+  {
+    "id": 4702921684,
+    "calories": 2915,
+    "segment": "moderate",
+    "very_active_mins": 3,
+    "steps": 7583
+  },
+  {
+    "id": 4702921684,
+    "calories": 2895,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 6963
+  },
+  {
+    "id": 4702921684,
+    "calories": 2923,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 7165
+  },
+  {
+    "id": 4702921684,
+    "calories": 3323,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 10328
+  },
+  {
+    "id": 4702921684,
+    "calories": 3357,
+    "segment": "moderate",
+    "very_active_mins": 3,
+    "steps": 12116
+  },
+  {
+    "id": 4702921684,
+    "calories": 2931,
+    "segment": "moderate",
+    "very_active_mins": 6,
+    "steps": 7810
+  },
+  {
+    "id": 4702921684,
+    "calories": 2848,
+    "segment": "moderate",
+    "very_active_mins": 15,
+    "steps": 6670
+  },
+  {
+    "id": 4702921684,
+    "calories": 2943,
+    "segment": "moderate",
+    "very_active_mins": 4,
+    "steps": 7605
+  },
+  {
+    "id": 4702921684,
+    "calories": 2822,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 6585
+  },
+  {
+    "id": 4702921684,
+    "calories": 2981,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 8184
+  },
+  {
+    "id": 4702921684,
+    "calories": 3597,
+    "segment": "moderate",
+    "very_active_mins": 8,
+    "steps": 14002
+  },
+  {
+    "id": 4702921684,
+    "calories": 3224,
+    "segment": "moderate",
+    "very_active_mins": 1,
+    "steps": 11135
+  },
+  {
+    "id": 4702921684,
+    "calories": 2677,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 6499
+  },
+  {
+    "id": 5553957443,
+    "calories": 2142,
+    "segment": "moderate",
+    "very_active_mins": 51,
+    "steps": 12409
+  },
+  {
+    "id": 5553957443,
+    "calories": 1615,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 2937
+  },
+  {
+    "id": 5553957443,
+    "calories": 1481,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 1515
+  },
+  {
+    "id": 5553957443,
+    "calories": 1892,
+    "segment": "moderate",
+    "very_active_mins": 27,
+    "steps": 8921
+  },
+  {
+    "id": 5553957443,
+    "calories": 2086,
+    "segment": "moderate",
+    "very_active_mins": 40,
+    "steps": 11306
+  },
+  {
+    "id": 5553957443,
+    "calories": 2044,
+    "segment": "moderate",
+    "very_active_mins": 33,
+    "steps": 12252
+  },
+  {
+    "id": 5553957443,
+    "calories": 2249,
+    "segment": "moderate",
+    "very_active_mins": 51,
+    "steps": 15444
+  },
+  {
+    "id": 5553957443,
+    "calories": 2019,
+    "segment": "moderate",
+    "very_active_mins": 38,
+    "steps": 9938
+  },
+  {
+    "id": 5553957443,
+    "calories": 1692,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 4599
+  },
+  {
+    "id": 5553957443,
+    "calories": 1712,
+    "segment": "moderate",
+    "very_active_mins": 4,
+    "steps": 5594
+  },
+  {
+    "id": 5553957443,
+    "calories": 2065,
+    "segment": "moderate",
+    "very_active_mins": 32,
+    "steps": 11906
+  },
+  {
+    "id": 5553957443,
+    "calories": 633,
+    "segment": "moderate",
+    "very_active_mins": 7,
+    "steps": 3436
+  },
+  {
+    "id": 5577150313,
+    "calories": 3625,
+    "segment": "moderate",
+    "very_active_mins": 99,
+    "steps": 10461
+  },
+  {
+    "id": 5577150313,
+    "calories": 4430,
+    "segment": "moderate",
+    "very_active_mins": 202,
+    "steps": 14873
+  },
+  {
+    "id": 5577150313,
+    "calories": 3427,
+    "segment": "moderate",
+    "very_active_mins": 58,
+    "steps": 9917
+  },
+  {
+    "id": 5577150313,
+    "calories": 3492,
+    "segment": "moderate",
+    "very_active_mins": 70,
+    "steps": 7401
+  },
+  {
+    "id": 5577150313,
+    "calories": 3597,
+    "segment": "moderate",
+    "very_active_mins": 107,
+    "steps": 8964
+  },
+  {
+    "id": 5577150313,
+    "calories": 3765,
+    "segment": "moderate",
+    "very_active_mins": 83,
+    "steps": 11080
+  },
+  {
+    "id": 5577150313,
+    "calories": 2775,
+    "segment": "moderate",
+    "very_active_mins": 31,
+    "steps": 4499
+  },
+  {
+    "id": 5577150313,
+    "calories": 2486,
+    "segment": "moderate",
+    "very_active_mins": 8,
+    "steps": 4363
+  },
+  {
+    "id": 5577150313,
+    "calories": 3817,
+    "segment": "moderate",
+    "very_active_mins": 123,
+    "steps": 10494
+  },
+  {
+    "id": 5577150313,
+    "calories": 3378,
+    "segment": "moderate",
+    "very_active_mins": 80,
+    "steps": 9776
+  },
+  {
+    "id": 5577150313,
+    "calories": 1511,
+    "segment": "moderate",
+    "very_active_mins": 39,
+    "steps": 2862
+  },
+  {
+    "id": 6117666160,
+    "calories": 2210,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 7444
+  },
+  {
+    "id": 6117666160,
+    "calories": 2884,
+    "segment": "moderate",
+    "very_active_mins": 3,
+    "steps": 19658
+  },
+  {
+    "id": 6117666160,
+    "calories": 1496,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 6117666160,
+    "calories": 2262,
+    "segment": "moderate",
+    "very_active_mins": 2,
+    "steps": 8468
+  },
+  {
+    "id": 6117666160,
+    "calories": 2445,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 9910
+  },
+  {
+    "id": 6117666160,
+    "calories": 2694,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 12409
+  },
+  {
+    "id": 6117666160,
+    "calories": 1903,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 4853
+  },
+  {
+    "id": 6117666160,
+    "calories": 2482,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 8955
+  },
+  {
+    "id": 6117666160,
+    "calories": 2617,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 10789
+  },
+  {
+    "id": 6290855005,
+    "calories": 2778,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 6633
+  },
+  {
+    "id": 6290855005,
+    "calories": 3119,
+    "segment": "sedentary",
+    "very_active_mins": 25,
+    "steps": 9548
+  },
+  {
+    "id": 6290855005,
+    "calories": 2664,
+    "segment": "sedentary",
+    "very_active_mins": 33,
+    "steps": 0
+  },
+  {
+    "id": 6290855005,
+    "calories": 2060,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 6290855005,
+    "calories": 2060,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 6290855005,
+    "calories": 2060,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 6290855005,
+    "calories": 2060,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 6290855005,
+    "calories": 2060,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 6290855005,
+    "calories": 2060,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 6290855005,
+    "calories": 735,
+    "segment": "sedentary",
+    "very_active_mins": 20,
+    "steps": 0
+  },
+  {
+    "id": 6775888955,
+    "calories": 3065,
+    "segment": "sedentary",
+    "very_active_mins": 25,
+    "steps": 7225
+  },
+  {
+    "id": 6775888955,
+    "calories": 2207,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 1988
+  },
+  {
+    "id": 6775888955,
+    "calories": 1977,
+    "segment": "sedentary",
+    "very_active_mins": 1,
+    "steps": 1577
+  },
+  {
+    "id": 6775888955,
+    "calories": 1841,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 6775888955,
+    "calories": 4286,
+    "segment": "sedentary",
+    "very_active_mins": 56,
+    "steps": 9348
+  },
+  {
+    "id": 6775888955,
+    "calories": 3920,
+    "segment": "sedentary",
+    "very_active_mins": 24,
+    "steps": 11761
+  },
+  {
+    "id": 6775888955,
+    "calories": 3856,
+    "segment": "sedentary",
+    "very_active_mins": 46,
+    "steps": 13987
+  },
+  {
+    "id": 6775888955,
+    "calories": 2584,
+    "segment": "sedentary",
+    "very_active_mins": 27,
+    "steps": 4131
+  },
+  {
+    "id": 6775888955,
+    "calories": 787,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 14
+  },
+  {
+    "id": 6962181067,
+    "calories": 2244,
+    "segment": "high",
+    "very_active_mins": 18,
+    "steps": 15491
+  },
+  {
+    "id": 6962181067,
+    "calories": 2188,
+    "segment": "high",
+    "very_active_mins": 50,
+    "steps": 14097
+  },
+  {
+    "id": 6962181067,
+    "calories": 2014,
+    "segment": "high",
+    "very_active_mins": 9,
+    "steps": 10467
+  },
+  {
+    "id": 6962181067,
+    "calories": 2115,
+    "segment": "high",
+    "very_active_mins": 50,
+    "steps": 12437
+  },
+  {
+    "id": 6962181067,
+    "calories": 2055,
+    "segment": "high",
+    "very_active_mins": 14,
+    "steps": 12307
+  },
+  {
+    "id": 6962181067,
+    "calories": 2437,
+    "segment": "high",
+    "very_active_mins": 73,
+    "steps": 18952
+  },
+  {
+    "id": 6962181067,
+    "calories": 2158,
+    "segment": "high",
+    "very_active_mins": 38,
+    "steps": 12010
+  },
+  {
+    "id": 6962181067,
+    "calories": 2170,
+    "segment": "high",
+    "very_active_mins": 55,
+    "steps": 12480
+  },
+  {
+    "id": 6962181067,
+    "calories": 2244,
+    "segment": "high",
+    "very_active_mins": 45,
+    "steps": 13417
+  },
+  {
+    "id": 6962181067,
+    "calories": 2188,
+    "segment": "high",
+    "very_active_mins": 27,
+    "steps": 14400
+  },
+  {
+    "id": 6962181067,
+    "calories": 2231,
+    "segment": "high",
+    "very_active_mins": 33,
+    "steps": 12495
+  },
+  {
+    "id": 6962181067,
+    "calories": 2100,
+    "segment": "high",
+    "very_active_mins": 19,
+    "steps": 10148
+  },
+  {
+    "id": 6962181067,
+    "calories": 2188,
+    "segment": "high",
+    "very_active_mins": 21,
+    "steps": 12362
+  },
+  {
+    "id": 6962181067,
+    "calories": 917,
+    "segment": "high",
+    "very_active_mins": 43,
+    "steps": 5893
+  },
+  {
+    "id": 7007744171,
+    "calories": 2573,
+    "segment": "high",
+    "very_active_mins": 50,
+    "steps": 11680
+  },
+  {
+    "id": 7007744171,
+    "calories": 2575,
+    "segment": "high",
+    "very_active_mins": 9,
+    "steps": 10976
+  },
+  {
+    "id": 7007744171,
+    "calories": 3086,
+    "segment": "high",
+    "very_active_mins": 104,
+    "steps": 16806
+  },
+  {
+    "id": 7007744171,
+    "calories": 2886,
+    "segment": "high",
+    "very_active_mins": 70,
+    "steps": 15266
+  },
+  {
+    "id": 7007744171,
+    "calories": 2676,
+    "segment": "high",
+    "very_active_mins": 50,
+    "steps": 12084
+  },
+  {
+    "id": 7007744171,
+    "calories": 2811,
+    "segment": "high",
+    "very_active_mins": 64,
+    "steps": 13513
+  },
+  {
+    "id": 7007744171,
+    "calories": 2840,
+    "segment": "high",
+    "very_active_mins": 61,
+    "steps": 14100
+  },
+  {
+    "id": 7007744171,
+    "calories": 2871,
+    "segment": "high",
+    "very_active_mins": 54,
+    "steps": 12627
+  },
+  {
+    "id": 7007744171,
+    "calories": 2613,
+    "segment": "high",
+    "very_active_mins": 2,
+    "steps": 10345
+  },
+  {
+    "id": 7007744171,
+    "calories": 2700,
+    "segment": "high",
+    "very_active_mins": 1,
+    "steps": 10146
+  },
+  {
+    "id": 7007744171,
+    "calories": 2871,
+    "segment": "high",
+    "very_active_mins": 18,
+    "steps": 12168
+  },
+  {
+    "id": 7007744171,
+    "calories": 1023,
+    "segment": "high",
+    "very_active_mins": 53,
+    "steps": 7413
+  },
+  {
+    "id": 7086361926,
+    "calories": 2496,
+    "segment": "moderate",
+    "very_active_mins": 38,
+    "steps": 11463
+  },
+  {
+    "id": 7086361926,
+    "calories": 1641,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 87
+  },
+  {
+    "id": 7086361926,
+    "calories": 1794,
+    "segment": "moderate",
+    "very_active_mins": 3,
+    "steps": 1949
+  },
+  {
+    "id": 7086361926,
+    "calories": 2421,
+    "segment": "moderate",
+    "very_active_mins": 31,
+    "steps": 6101
+  },
+  {
+    "id": 7086361926,
+    "calories": 2439,
+    "segment": "moderate",
+    "very_active_mins": 25,
+    "steps": 7478
+  },
+  {
+    "id": 7086361926,
+    "calories": 2233,
+    "segment": "moderate",
+    "very_active_mins": 19,
+    "steps": 7352
+  },
+  {
+    "id": 7086361926,
+    "calories": 2862,
+    "segment": "moderate",
+    "very_active_mins": 76,
+    "steps": 14604
+  },
+  {
+    "id": 7086361926,
+    "calories": 2752,
+    "segment": "moderate",
+    "very_active_mins": 50,
+    "steps": 9634
+  },
+  {
+    "id": 7086361926,
+    "calories": 2519,
+    "segment": "moderate",
+    "very_active_mins": 27,
+    "steps": 7338
+  },
+  {
+    "id": 7086361926,
+    "calories": 1799,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 569
+  },
+  {
+    "id": 7086361926,
+    "calories": 2543,
+    "segment": "moderate",
+    "very_active_mins": 46,
+    "steps": 6242
+  },
+  {
+    "id": 7086361926,
+    "calories": 625,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 430
+  },
+  {
+    "id": 8053475328,
+    "calories": 3377,
+    "segment": "high",
+    "very_active_mins": 124,
+    "steps": 20188
+  },
+  {
+    "id": 8053475328,
+    "calories": 3697,
+    "segment": "high",
+    "very_active_mins": 165,
+    "steps": 25701
+  },
+  {
+    "id": 8053475328,
+    "calories": 3209,
+    "segment": "high",
+    "very_active_mins": 100,
+    "steps": 17395
+  },
+  {
+    "id": 8053475328,
+    "calories": 3167,
+    "segment": "high",
+    "very_active_mins": 98,
+    "steps": 17167
+  },
+  {
+    "id": 8053475328,
+    "calories": 3122,
+    "segment": "high",
+    "very_active_mins": 100,
+    "steps": 16435
+  },
+  {
+    "id": 8053475328,
+    "calories": 3176,
+    "segment": "high",
+    "very_active_mins": 101,
+    "steps": 17078
+  },
+  {
+    "id": 8053475328,
+    "calories": 2790,
+    "segment": "high",
+    "very_active_mins": 60,
+    "steps": 11693
+  },
+  {
+    "id": 8053475328,
+    "calories": 2715,
+    "segment": "high",
+    "very_active_mins": 59,
+    "steps": 11159
+  },
+  {
+    "id": 8053475328,
+    "calories": 2684,
+    "segment": "high",
+    "very_active_mins": 30,
+    "steps": 10118
+  },
+  {
+    "id": 8053475328,
+    "calories": 3097,
+    "segment": "high",
+    "very_active_mins": 96,
+    "steps": 16064
+  },
+  {
+    "id": 8053475328,
+    "calories": 791,
+    "segment": "high",
+    "very_active_mins": 0,
+    "steps": 290
+  },
+  {
+    "id": 8253242879,
+    "calories": 1429,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 8253242879,
+    "calories": 1429,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 8253242879,
+    "calories": 1429,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 8253242879,
+    "calories": 1429,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 8253242879,
+    "calories": 1429,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 8253242879,
+    "calories": 1607,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 1931
+  },
+  {
+    "id": 8253242879,
+    "calories": 1776,
+    "segment": "moderate",
+    "very_active_mins": 15,
+    "steps": 5181
+  },
+  {
+    "id": 8253242879,
+    "calories": 2162,
+    "segment": "moderate",
+    "very_active_mins": 47,
+    "steps": 12026
+  },
+  {
+    "id": 8253242879,
+    "calories": 1832,
+    "segment": "moderate",
+    "very_active_mins": 8,
+    "steps": 5360
+  },
+  {
+    "id": 8253242879,
+    "calories": 1657,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 2545
+  },
+  {
+    "id": 8253242879,
+    "calories": 1377,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 1636
+  },
+  {
+    "id": 8378563200,
+    "calories": 3669,
+    "segment": "moderate",
+    "very_active_mins": 73,
+    "steps": 14179
+  },
+  {
+    "id": 8378563200,
+    "calories": 2702,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 3358
+  },
+  {
+    "id": 8378563200,
+    "calories": 3304,
+    "segment": "moderate",
+    "very_active_mins": 25,
+    "steps": 9152
+  },
+  {
+    "id": 8378563200,
+    "calories": 4234,
+    "segment": "moderate",
+    "very_active_mins": 105,
+    "steps": 13935
+  },
+  {
+    "id": 8378563200,
+    "calories": 4128,
+    "segment": "moderate",
+    "very_active_mins": 113,
+    "steps": 12846
+  },
+  {
+    "id": 8378563200,
+    "calories": 3798,
+    "segment": "moderate",
+    "very_active_mins": 55,
+    "steps": 9124
+  },
+  {
+    "id": 8378563200,
+    "calories": 3839,
+    "segment": "moderate",
+    "very_active_mins": 83,
+    "steps": 9725
+  },
+  {
+    "id": 8378563200,
+    "calories": 3713,
+    "segment": "moderate",
+    "very_active_mins": 72,
+    "steps": 8350
+  },
+  {
+    "id": 8378563200,
+    "calories": 2606,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 2240
+  },
+  {
+    "id": 8378563200,
+    "calories": 2624,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 2631
+  },
+  {
+    "id": 8378563200,
+    "calories": 3775,
+    "segment": "moderate",
+    "very_active_mins": 74,
+    "steps": 8837
+  },
+  {
+    "id": 8378563200,
+    "calories": 1882,
+    "segment": "moderate",
+    "very_active_mins": 65,
+    "steps": 3246
+  },
+  {
+    "id": 8583815059,
+    "calories": 2360,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 2174
+  },
+  {
+    "id": 8583815059,
+    "calories": 2517,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 3494
+  },
+  {
+    "id": 8583815059,
+    "calories": 2400,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 2380
+  },
+  {
+    "id": 8583815059,
+    "calories": 2462,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 3159
+  },
+  {
+    "id": 8583815059,
+    "calories": 2786,
+    "segment": "moderate",
+    "very_active_mins": 5,
+    "steps": 6835
+  },
+  {
+    "id": 8583815059,
+    "calories": 2354,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 2098
+  },
+  {
+    "id": 8583815059,
+    "calories": 2437,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 2816
+  },
+  {
+    "id": 8583815059,
+    "calories": 1814,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 1408
+  },
+  {
+    "id": 8792009665,
+    "calories": 2260,
+    "segment": "sedentary",
+    "very_active_mins": 4,
+    "steps": 4592
+  },
+  {
+    "id": 8792009665,
+    "calories": 3004,
+    "segment": "sedentary",
+    "very_active_mins": 9,
+    "steps": 8452
+  },
+  {
+    "id": 8792009665,
+    "calories": 2667,
+    "segment": "sedentary",
+    "very_active_mins": 2,
+    "steps": 7238
+  },
+  {
+    "id": 8792009665,
+    "calories": 2229,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 3821
+  },
+  {
+    "id": 8792009665,
+    "calories": 2100,
+    "segment": "sedentary",
+    "very_active_mins": 1,
+    "steps": 2332
+  },
+  {
+    "id": 8792009665,
+    "calories": 2114,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 2121
+  },
+  {
+    "id": 8792009665,
+    "calories": 1961,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 1291
+  },
+  {
+    "id": 8792009665,
+    "calories": 1953,
+    "segment": "sedentary",
+    "very_active_mins": 2,
+    "steps": 1467
+  },
+  {
+    "id": 8792009665,
+    "calories": 1890,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 1022
+  },
+  {
+    "id": 8792009665,
+    "calories": 2253,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 4605
+  },
+  {
+    "id": 8792009665,
+    "calories": 1725,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 178
+  },
+  {
+    "id": 8792009665,
+    "calories": 728,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 20
+  },
+  {
+    "id": 8877689391,
+    "calories": 3527,
+    "segment": "high",
+    "very_active_mins": 67,
+    "steps": 18700
+  },
+  {
+    "id": 8877689391,
+    "calories": 4220,
+    "segment": "high",
+    "very_active_mins": 116,
+    "steps": 27572
+  },
+  {
+    "id": 8877689391,
+    "calories": 3864,
+    "segment": "high",
+    "very_active_mins": 106,
+    "steps": 15260
+  },
+  {
+    "id": 8877689391,
+    "calories": 3662,
+    "segment": "high",
+    "very_active_mins": 78,
+    "steps": 20779
+  },
+  {
+    "id": 8877689391,
+    "calories": 2834,
+    "segment": "high",
+    "very_active_mins": 10,
+    "steps": 10695
+  },
+  {
+    "id": 8877689391,
+    "calories": 4039,
+    "segment": "high",
+    "very_active_mins": 87,
+    "steps": 24136
+  },
+  {
+    "id": 8877689391,
+    "calories": 2947,
+    "segment": "high",
+    "very_active_mins": 32,
+    "steps": 10910
+  },
+  {
+    "id": 8877689391,
+    "calories": 4196,
+    "segment": "high",
+    "very_active_mins": 70,
+    "steps": 23014
+  },
+  {
+    "id": 8877689391,
+    "calories": 3841,
+    "segment": "high",
+    "very_active_mins": 90,
+    "steps": 16470
+  },
+  {
+    "id": 8877689391,
+    "calories": 4526,
+    "segment": "high",
+    "very_active_mins": 128,
+    "steps": 28497
+  },
+  {
+    "id": 8877689391,
+    "calories": 2820,
+    "segment": "high",
+    "very_active_mins": 18,
+    "steps": 10622
+  },
+  {
+    "id": 8877689391,
+    "calories": 938,
+    "segment": "high",
+    "very_active_mins": 0,
+    "steps": 2350
+  },
+  {
+    "id": 1503960366,
+    "calories": 1797,
+    "segment": "high",
+    "very_active_mins": 21,
+    "steps": 10735
+  },
+  {
+    "id": 1503960366,
+    "calories": 1776,
+    "segment": "high",
+    "very_active_mins": 30,
+    "steps": 10460
+  },
+  {
+    "id": 1503960366,
+    "calories": 1745,
+    "segment": "high",
+    "very_active_mins": 29,
+    "steps": 9762
+  },
+  {
+    "id": 1503960366,
+    "calories": 1863,
+    "segment": "high",
+    "very_active_mins": 36,
+    "steps": 12669
+  },
+  {
+    "id": 1503960366,
+    "calories": 1728,
+    "segment": "high",
+    "very_active_mins": 38,
+    "steps": 9705
+  },
+  {
+    "id": 1503960366,
+    "calories": 1921,
+    "segment": "high",
+    "very_active_mins": 42,
+    "steps": 13019
+  },
+  {
+    "id": 1503960366,
+    "calories": 2035,
+    "segment": "high",
+    "very_active_mins": 50,
+    "steps": 15506
+  },
+  {
+    "id": 1503960366,
+    "calories": 1786,
+    "segment": "high",
+    "very_active_mins": 28,
+    "steps": 10544
+  },
+  {
+    "id": 1503960366,
+    "calories": 1775,
+    "segment": "high",
+    "very_active_mins": 19,
+    "steps": 9819
+  },
+  {
+    "id": 1503960366,
+    "calories": 1827,
+    "segment": "high",
+    "very_active_mins": 66,
+    "steps": 12764
+  },
+  {
+    "id": 1503960366,
+    "calories": 1949,
+    "segment": "high",
+    "very_active_mins": 41,
+    "steps": 14371
+  },
+  {
+    "id": 1503960366,
+    "calories": 1788,
+    "segment": "high",
+    "very_active_mins": 39,
+    "steps": 10039
+  },
+  {
+    "id": 1503960366,
+    "calories": 2013,
+    "segment": "high",
+    "very_active_mins": 73,
+    "steps": 15355
+  },
+  {
+    "id": 1503960366,
+    "calories": 1970,
+    "segment": "high",
+    "very_active_mins": 31,
+    "steps": 13755
+  },
+  {
+    "id": 1503960366,
+    "calories": 2159,
+    "segment": "high",
+    "very_active_mins": 78,
+    "steps": 18134
+  },
+  {
+    "id": 1503960366,
+    "calories": 1898,
+    "segment": "high",
+    "very_active_mins": 48,
+    "steps": 13154
+  },
+  {
+    "id": 1503960366,
+    "calories": 1837,
+    "segment": "high",
+    "very_active_mins": 16,
+    "steps": 11181
+  },
+  {
+    "id": 1503960366,
+    "calories": 1947,
+    "segment": "high",
+    "very_active_mins": 52,
+    "steps": 14673
+  },
+  {
+    "id": 1503960366,
+    "calories": 1820,
+    "segment": "high",
+    "very_active_mins": 33,
+    "steps": 10602
+  },
+  {
+    "id": 1503960366,
+    "calories": 2004,
+    "segment": "high",
+    "very_active_mins": 41,
+    "steps": 14727
+  },
+  {
+    "id": 1503960366,
+    "calories": 1990,
+    "segment": "high",
+    "very_active_mins": 50,
+    "steps": 15103
+  },
+  {
+    "id": 1503960366,
+    "calories": 1819,
+    "segment": "high",
+    "very_active_mins": 36,
+    "steps": 11100
+  },
+  {
+    "id": 1503960366,
+    "calories": 1959,
+    "segment": "high",
+    "very_active_mins": 45,
+    "steps": 14070
+  },
+  {
+    "id": 1503960366,
+    "calories": 1896,
+    "segment": "high",
+    "very_active_mins": 24,
+    "steps": 12159
+  },
+  {
+    "id": 1503960366,
+    "calories": 1821,
+    "segment": "high",
+    "very_active_mins": 37,
+    "steps": 11992
+  },
+  {
+    "id": 1503960366,
+    "calories": 1740,
+    "segment": "high",
+    "very_active_mins": 44,
+    "steps": 10060
+  },
+  {
+    "id": 1503960366,
+    "calories": 1819,
+    "segment": "high",
+    "very_active_mins": 46,
+    "steps": 12022
+  },
+  {
+    "id": 1503960366,
+    "calories": 1859,
+    "segment": "high",
+    "very_active_mins": 46,
+    "steps": 12207
+  },
+  {
+    "id": 1503960366,
+    "calories": 1783,
+    "segment": "high",
+    "very_active_mins": 36,
+    "steps": 12770
+  },
+  {
+    "id": 1624580081,
+    "calories": 1411,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 7007
+  },
+  {
+    "id": 1624580081,
+    "calories": 1572,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 9107
+  },
+  {
+    "id": 1624580081,
+    "calories": 1344,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 1510
+  },
+  {
+    "id": 1624580081,
+    "calories": 1463,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 5370
+  },
+  {
+    "id": 1624580081,
+    "calories": 1554,
+    "segment": "moderate",
+    "very_active_mins": 15,
+    "steps": 6175
+  },
+  {
+    "id": 1624580081,
+    "calories": 1604,
+    "segment": "moderate",
+    "very_active_mins": 17,
+    "steps": 10536
+  },
+  {
+    "id": 1624580081,
+    "calories": 1435,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 2916
+  },
+  {
+    "id": 1624580081,
+    "calories": 1446,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 4974
+  },
+  {
+    "id": 1624580081,
+    "calories": 1467,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 6349
+  },
+  {
+    "id": 1624580081,
+    "calories": 1470,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 4026
+  },
+  {
+    "id": 1624580081,
+    "calories": 1562,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 8538
+  },
+  {
+    "id": 1624580081,
+    "calories": 1617,
+    "segment": "moderate",
+    "very_active_mins": 16,
+    "steps": 6076
+  },
+  {
+    "id": 1624580081,
+    "calories": 1492,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 6497
+  },
+  {
+    "id": 1624580081,
+    "calories": 1402,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 2826
+  },
+  {
+    "id": 1624580081,
+    "calories": 1670,
+    "segment": "moderate",
+    "very_active_mins": 17,
+    "steps": 8367
+  },
+  {
+    "id": 1624580081,
+    "calories": 1401,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 2759
+  },
+  {
+    "id": 1624580081,
+    "calories": 1404,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 2390
+  },
+  {
+    "id": 1624580081,
+    "calories": 1655,
+    "segment": "moderate",
+    "very_active_mins": 11,
+    "steps": 6474
+  },
+  {
+    "id": 1624580081,
+    "calories": 2690,
+    "segment": "moderate",
+    "very_active_mins": 186,
+    "steps": 36019
+  },
+  {
+    "id": 1624580081,
+    "calories": 1497,
+    "segment": "moderate",
+    "very_active_mins": 7,
+    "steps": 7155
+  },
+  {
+    "id": 1624580081,
+    "calories": 1334,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 2100
+  },
+  {
+    "id": 1624580081,
+    "calories": 1368,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 2193
+  },
+  {
+    "id": 1624580081,
+    "calories": 1370,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 2470
+  },
+  {
+    "id": 1624580081,
+    "calories": 1341,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 1727
+  },
+  {
+    "id": 1624580081,
+    "calories": 1474,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 2104
+  },
+  {
+    "id": 1624580081,
+    "calories": 1427,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 3427
+  },
+  {
+    "id": 1624580081,
+    "calories": 1328,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 1732
+  },
+  {
+    "id": 1624580081,
+    "calories": 1393,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 2969
+  },
+  {
+    "id": 1624580081,
+    "calories": 1359,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 3134
+  },
+  {
+    "id": 1624580081,
+    "calories": 1002,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 2971
+  },
+  {
+    "id": 1644430081,
+    "calories": 3199,
+    "segment": "moderate",
+    "very_active_mins": 2,
+    "steps": 10694
+  },
+  {
+    "id": 1644430081,
+    "calories": 2902,
+    "segment": "moderate",
+    "very_active_mins": 30,
+    "steps": 8001
+  },
+  {
+    "id": 1644430081,
+    "calories": 3226,
+    "segment": "moderate",
+    "very_active_mins": 5,
+    "steps": 11037
+  },
+  {
+    "id": 1644430081,
+    "calories": 2750,
+    "segment": "moderate",
+    "very_active_mins": 3,
+    "steps": 5263
+  },
+  {
+    "id": 1644430081,
+    "calories": 3493,
+    "segment": "moderate",
+    "very_active_mins": 51,
+    "steps": 15300
+  },
+  {
+    "id": 1644430081,
+    "calories": 3011,
+    "segment": "moderate",
+    "very_active_mins": 29,
+    "steps": 8757
+  },
+  {
+    "id": 1644430081,
+    "calories": 2806,
+    "segment": "moderate",
+    "very_active_mins": 15,
+    "steps": 7132
+  },
+  {
+    "id": 1644430081,
+    "calories": 3300,
+    "segment": "moderate",
+    "very_active_mins": 5,
+    "steps": 11256
+  },
+  {
+    "id": 1644430081,
+    "calories": 2430,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 2436
+  },
+  {
+    "id": 1644430081,
+    "calories": 2140,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 1223
+  },
+  {
+    "id": 1644430081,
+    "calories": 2344,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 3673
+  },
+  {
+    "id": 1644430081,
+    "calories": 2677,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 6637
+  },
+  {
+    "id": 1644430081,
+    "calories": 2413,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 3321
+  },
+  {
+    "id": 1644430081,
+    "calories": 2497,
+    "segment": "moderate",
+    "very_active_mins": 8,
+    "steps": 3580
+  },
+  {
+    "id": 1644430081,
+    "calories": 3123,
+    "segment": "moderate",
+    "very_active_mins": 11,
+    "steps": 9919
+  },
+  {
+    "id": 1644430081,
+    "calories": 2489,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 3032
+  },
+  {
+    "id": 1644430081,
+    "calories": 3108,
+    "segment": "moderate",
+    "very_active_mins": 3,
+    "steps": 9405
+  },
+  {
+    "id": 1644430081,
+    "calories": 2498,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 3176
+  },
+  {
+    "id": 1644430081,
+    "calories": 3846,
+    "segment": "moderate",
+    "very_active_mins": 9,
+    "steps": 18213
+  },
+  {
+    "id": 1644430081,
+    "calories": 2696,
+    "segment": "moderate",
+    "very_active_mins": 3,
+    "steps": 6132
+  },
+  {
+    "id": 1644430081,
+    "calories": 2580,
+    "segment": "moderate",
+    "very_active_mins": 1,
+    "steps": 3758
+  },
+  {
+    "id": 1644430081,
+    "calories": 3324,
+    "segment": "moderate",
+    "very_active_mins": 10,
+    "steps": 12850
+  },
+  {
+    "id": 1644430081,
+    "calories": 2222,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 2309
+  },
+  {
+    "id": 1644430081,
+    "calories": 2463,
+    "segment": "moderate",
+    "very_active_mins": 6,
+    "steps": 4363
+  },
+  {
+    "id": 1644430081,
+    "calories": 3328,
+    "segment": "moderate",
+    "very_active_mins": 11,
+    "steps": 9787
+  },
+  {
+    "id": 1644430081,
+    "calories": 3404,
+    "segment": "moderate",
+    "very_active_mins": 41,
+    "steps": 13372
+  },
+  {
+    "id": 1644430081,
+    "calories": 2987,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 6724
+  },
+  {
+    "id": 1644430081,
+    "calories": 3008,
+    "segment": "moderate",
+    "very_active_mins": 32,
+    "steps": 6643
+  },
+  {
+    "id": 1644430081,
+    "calories": 2799,
+    "segment": "moderate",
+    "very_active_mins": 12,
+    "steps": 9167
+  },
+  {
+    "id": 1644430081,
+    "calories": 1276,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 1329
+  },
+  {
+    "id": 1844505072,
+    "calories": 1860,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 4929
+  },
+  {
+    "id": 1844505072,
+    "calories": 2130,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 7937
+  },
+  {
+    "id": 1844505072,
+    "calories": 1725,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 3844
+  },
+  {
+    "id": 1844505072,
+    "calories": 1657,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 3414
+  },
+  {
+    "id": 1844505072,
+    "calories": 1793,
+    "segment": "sedentary",
+    "very_active_mins": 2,
+    "steps": 4525
+  },
+  {
+    "id": 1844505072,
+    "calories": 1814,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 4597
+  },
+  {
+    "id": 1844505072,
+    "calories": 1366,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 197
+  },
+  {
+    "id": 1844505072,
+    "calories": 1349,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 8
+  },
+  {
+    "id": 1844505072,
+    "calories": 2062,
+    "segment": "sedentary",
+    "very_active_mins": 2,
+    "steps": 8054
+  },
+  {
+    "id": 1844505072,
+    "calories": 1827,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 5372
+  },
+  {
+    "id": 1844505072,
+    "calories": 1645,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 3570
+  },
+  {
+    "id": 1844505072,
+    "calories": 1347,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 1844505072,
+    "calories": 1347,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 1844505072,
+    "calories": 1347,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 1844505072,
+    "calories": 1348,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 4
+  },
+  {
+    "id": 1844505072,
+    "calories": 1992,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 6907
+  },
+  {
+    "id": 1844505072,
+    "calories": 1856,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 4920
+  },
+  {
+    "id": 1844505072,
+    "calories": 1763,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 4014
+  },
+  {
+    "id": 1844505072,
+    "calories": 1541,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 2573
+  },
+  {
+    "id": 1844505072,
+    "calories": 1348,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 1844505072,
+    "calories": 1742,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 4059
+  },
+  {
+    "id": 1844505072,
+    "calories": 1549,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 2080
+  },
+  {
+    "id": 1844505072,
+    "calories": 1589,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 2237
+  },
+  {
+    "id": 1844505072,
+    "calories": 1351,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 44
+  },
+  {
+    "id": 1844505072,
+    "calories": 1347,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 1844505072,
+    "calories": 1347,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 1844505072,
+    "calories": 1347,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 1844505072,
+    "calories": 1347,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 1844505072,
+    "calories": 1347,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 1844505072,
+    "calories": 665,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 1927972279,
+    "calories": 2151,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 356
+  },
+  {
+    "id": 1927972279,
+    "calories": 2383,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 2163
+  },
+  {
+    "id": 1927972279,
+    "calories": 2221,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 980
+  },
+  {
+    "id": 1927972279,
+    "calories": 2064,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 1927972279,
+    "calories": 2063,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 1927972279,
+    "calories": 2111,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 244
+  },
+  {
+    "id": 1927972279,
+    "calories": 2063,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 1927972279,
+    "calories": 2063,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 1927972279,
+    "calories": 2064,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 1927972279,
+    "calories": 2093,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 149
+  },
+  {
+    "id": 1927972279,
+    "calories": 2499,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 2945
+  },
+  {
+    "id": 1927972279,
+    "calories": 2324,
+    "segment": "sedentary",
+    "very_active_mins": 1,
+    "steps": 2090
+  },
+  {
+    "id": 1927972279,
+    "calories": 2100,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 152
+  },
+  {
+    "id": 1927972279,
+    "calories": 2638,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 3761
+  },
+  {
+    "id": 1927972279,
+    "calories": 2063,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 1927972279,
+    "calories": 2351,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 1675
+  },
+  {
+    "id": 1927972279,
+    "calories": 2063,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 1927972279,
+    "calories": 2064,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 1927972279,
+    "calories": 2411,
+    "segment": "sedentary",
+    "very_active_mins": 14,
+    "steps": 2704
+  },
+  {
+    "id": 1927972279,
+    "calories": 2505,
+    "segment": "sedentary",
+    "very_active_mins": 16,
+    "steps": 3790
+  },
+  {
+    "id": 1927972279,
+    "calories": 2195,
+    "segment": "sedentary",
+    "very_active_mins": 10,
+    "steps": 1326
+  },
+  {
+    "id": 1927972279,
+    "calories": 2338,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 1786
+  },
+  {
+    "id": 1927972279,
+    "calories": 2063,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 1927972279,
+    "calories": 2383,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 2091
+  },
+  {
+    "id": 1927972279,
+    "calories": 2229,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 1510
+  },
+  {
+    "id": 1927972279,
+    "calories": 2063,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 1927972279,
+    "calories": 2063,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 1927972279,
+    "calories": 2063,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 1927972279,
+    "calories": 2063,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 1927972279,
+    "calories": 1383,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 2022484408,
+    "calories": 2601,
+    "segment": "high",
+    "very_active_mins": 43,
+    "steps": 12024
+  },
+  {
+    "id": 2022484408,
+    "calories": 2312,
+    "segment": "high",
+    "very_active_mins": 32,
+    "steps": 10690
+  },
+  {
+    "id": 2022484408,
+    "calories": 2525,
+    "segment": "high",
+    "very_active_mins": 27,
+    "steps": 11034
+  },
+  {
+    "id": 2022484408,
+    "calories": 2177,
+    "segment": "high",
+    "very_active_mins": 41,
+    "steps": 10100
+  },
+  {
+    "id": 2022484408,
+    "calories": 2782,
+    "segment": "high",
+    "very_active_mins": 28,
+    "steps": 15112
+  },
+  {
+    "id": 2022484408,
+    "calories": 2770,
+    "segment": "high",
+    "very_active_mins": 48,
+    "steps": 14131
+  },
+  {
+    "id": 2022484408,
+    "calories": 2489,
+    "segment": "high",
+    "very_active_mins": 31,
+    "steps": 11548
+  },
+  {
+    "id": 2022484408,
+    "calories": 2897,
+    "segment": "high",
+    "very_active_mins": 48,
+    "steps": 15112
+  },
+  {
+    "id": 2022484408,
+    "calories": 3158,
+    "segment": "high",
+    "very_active_mins": 104,
+    "steps": 12453
+  },
+  {
+    "id": 2022484408,
+    "calories": 2638,
+    "segment": "high",
+    "very_active_mins": 52,
+    "steps": 12954
+  },
+  {
+    "id": 2022484408,
+    "calories": 2069,
+    "segment": "high",
+    "very_active_mins": 0,
+    "steps": 6001
+  },
+  {
+    "id": 2022484408,
+    "calories": 2529,
+    "segment": "high",
+    "very_active_mins": 37,
+    "steps": 13481
+  },
+  {
+    "id": 2022484408,
+    "calories": 2470,
+    "segment": "high",
+    "very_active_mins": 44,
+    "steps": 11369
+  },
+  {
+    "id": 2022484408,
+    "calories": 2793,
+    "segment": "high",
+    "very_active_mins": 55,
+    "steps": 10119
+  },
+  {
+    "id": 2022484408,
+    "calories": 2463,
+    "segment": "high",
+    "very_active_mins": 19,
+    "steps": 10159
+  },
+  {
+    "id": 2022484408,
+    "calories": 2296,
+    "segment": "high",
+    "very_active_mins": 6,
+    "steps": 10140
+  },
+  {
+    "id": 2022484408,
+    "calories": 2611,
+    "segment": "high",
+    "very_active_mins": 21,
+    "steps": 10245
+  },
+  {
+    "id": 2022484408,
+    "calories": 2732,
+    "segment": "high",
+    "very_active_mins": 13,
+    "steps": 18387
+  },
+  {
+    "id": 2022484408,
+    "calories": 2380,
+    "segment": "high",
+    "very_active_mins": 25,
+    "steps": 10538
+  },
+  {
+    "id": 2022484408,
+    "calories": 2473,
+    "segment": "high",
+    "very_active_mins": 36,
+    "steps": 10379
+  },
+  {
+    "id": 2022484408,
+    "calories": 2752,
+    "segment": "high",
+    "very_active_mins": 72,
+    "steps": 12183
+  },
+  {
+    "id": 2022484408,
+    "calories": 2649,
+    "segment": "high",
+    "very_active_mins": 36,
+    "steps": 11768
+  },
+  {
+    "id": 2022484408,
+    "calories": 2609,
+    "segment": "high",
+    "very_active_mins": 55,
+    "steps": 11895
+  },
+  {
+    "id": 2022484408,
+    "calories": 2498,
+    "segment": "high",
+    "very_active_mins": 24,
+    "steps": 10227
+  },
+  {
+    "id": 2022484408,
+    "calories": 1995,
+    "segment": "high",
+    "very_active_mins": 20,
+    "steps": 6708
+  },
+  {
+    "id": 2022484408,
+    "calories": 1848,
+    "segment": "high",
+    "very_active_mins": 0,
+    "steps": 3292
+  },
+  {
+    "id": 2022484408,
+    "calories": 2709,
+    "segment": "high",
+    "very_active_mins": 35,
+    "steps": 13379
+  },
+  {
+    "id": 2022484408,
+    "calories": 2797,
+    "segment": "high",
+    "very_active_mins": 57,
+    "steps": 12798
+  },
+  {
+    "id": 2022484408,
+    "calories": 2544,
+    "segment": "high",
+    "very_active_mins": 58,
+    "steps": 13272
+  },
+  {
+    "id": 2022484408,
+    "calories": 1853,
+    "segment": "high",
+    "very_active_mins": 16,
+    "steps": 9117
+  },
+  {
+    "id": 2026352035,
+    "calories": 1521,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 4993
+  },
+  {
+    "id": 2026352035,
+    "calories": 1431,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 3335
+  },
+  {
+    "id": 2026352035,
+    "calories": 1444,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 3821
+  },
+  {
+    "id": 2026352035,
+    "calories": 1373,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 2547
+  },
+  {
+    "id": 2026352035,
+    "calories": 1214,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 838
+  },
+  {
+    "id": 2026352035,
+    "calories": 1419,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 3325
+  },
+  {
+    "id": 2026352035,
+    "calories": 1356,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 2424
+  },
+  {
+    "id": 2026352035,
+    "calories": 1667,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 7222
+  },
+  {
+    "id": 2026352035,
+    "calories": 1370,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 2467
+  },
+  {
+    "id": 2026352035,
+    "calories": 1399,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 2915
+  },
+  {
+    "id": 2026352035,
+    "calories": 1916,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 12357
+  },
+  {
+    "id": 2026352035,
+    "calories": 1401,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 3490
+  },
+  {
+    "id": 2026352035,
+    "calories": 1576,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 6017
+  },
+  {
+    "id": 2026352035,
+    "calories": 1595,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 5933
+  },
+  {
+    "id": 2026352035,
+    "calories": 1593,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 6088
+  },
+  {
+    "id": 2026352035,
+    "calories": 1649,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 6375
+  },
+  {
+    "id": 2026352035,
+    "calories": 1692,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 7604
+  },
+  {
+    "id": 2026352035,
+    "calories": 1506,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 4729
+  },
+  {
+    "id": 2026352035,
+    "calories": 1447,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 3609
+  },
+  {
+    "id": 2026352035,
+    "calories": 1690,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 7018
+  },
+  {
+    "id": 2026352035,
+    "calories": 1604,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 5992
+  },
+  {
+    "id": 2026352035,
+    "calories": 1658,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 6564
+  },
+  {
+    "id": 2026352035,
+    "calories": 1926,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 12167
+  },
+  {
+    "id": 2026352035,
+    "calories": 1736,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 8198
+  },
+  {
+    "id": 2026352035,
+    "calories": 1491,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 4193
+  },
+  {
+    "id": 2026352035,
+    "calories": 1555,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 5528
+  },
+  {
+    "id": 2026352035,
+    "calories": 1869,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 10685
+  },
+  {
+    "id": 2026352035,
+    "calories": 1141,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 254
+  },
+  {
+    "id": 2026352035,
+    "calories": 1698,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 8580
+  },
+  {
+    "id": 2026352035,
+    "calories": 1364,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 8891
+  },
+  {
+    "id": 2320127002,
+    "calories": 2003,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 7275
+  },
+  {
+    "id": 2320127002,
+    "calories": 1696,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 3973
+  },
+  {
+    "id": 2320127002,
+    "calories": 1801,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 5205
+  },
+  {
+    "id": 2320127002,
+    "calories": 1724,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 5057
+  },
+  {
+    "id": 2320127002,
+    "calories": 1852,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 6198
+  },
+  {
+    "id": 2320127002,
+    "calories": 1905,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 6559
+  },
+  {
+    "id": 2320127002,
+    "calories": 1811,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 5997
+  },
+  {
+    "id": 2320127002,
+    "calories": 1922,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 7192
+  },
+  {
+    "id": 2320127002,
+    "calories": 1610,
+    "segment": "sedentary",
+    "very_active_mins": 1,
+    "steps": 3404
+  },
+  {
+    "id": 2320127002,
+    "calories": 1851,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 5583
+  },
+  {
+    "id": 2320127002,
+    "calories": 1804,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 5079
+  },
+  {
+    "id": 2320127002,
+    "calories": 1725,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 4165
+  },
+  {
+    "id": 2320127002,
+    "calories": 1654,
+    "segment": "sedentary",
+    "very_active_mins": 3,
+    "steps": 3588
+  },
+  {
+    "id": 2320127002,
+    "calories": 1632,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 3409
+  },
+  {
+    "id": 2320127002,
+    "calories": 1481,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 1715
+  },
+  {
+    "id": 2320127002,
+    "calories": 1473,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 1532
+  },
+  {
+    "id": 2320127002,
+    "calories": 1410,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 924
+  },
+  {
+    "id": 2320127002,
+    "calories": 1779,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 4571
+  },
+  {
+    "id": 2320127002,
+    "calories": 1403,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 772
+  },
+  {
+    "id": 2320127002,
+    "calories": 1613,
+    "segment": "sedentary",
+    "very_active_mins": 5,
+    "steps": 3634
+  },
+  {
+    "id": 2320127002,
+    "calories": 1878,
+    "segment": "sedentary",
+    "very_active_mins": 20,
+    "steps": 7443
+  },
+  {
+    "id": 2320127002,
+    "calories": 1426,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 1201
+  },
+  {
+    "id": 2320127002,
+    "calories": 1780,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 5202
+  },
+  {
+    "id": 2320127002,
+    "calories": 1742,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 4878
+  },
+  {
+    "id": 2320127002,
+    "calories": 1972,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 7379
+  },
+  {
+    "id": 2320127002,
+    "calories": 1821,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 5161
+  },
+  {
+    "id": 2320127002,
+    "calories": 1630,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 3090
+  },
+  {
+    "id": 2320127002,
+    "calories": 1899,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 6227
+  },
+  {
+    "id": 2320127002,
+    "calories": 1903,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 6424
+  },
+  {
+    "id": 2320127002,
+    "calories": 1125,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 2661
+  },
+  {
+    "id": 2347167796,
+    "calories": 2038,
+    "segment": "moderate",
+    "very_active_mins": 19,
+    "steps": 10352
+  },
+  {
+    "id": 2347167796,
+    "calories": 2010,
+    "segment": "moderate",
+    "very_active_mins": 1,
+    "steps": 10129
+  },
+  {
+    "id": 2347167796,
+    "calories": 2133,
+    "segment": "moderate",
+    "very_active_mins": 1,
+    "steps": 10465
+  },
+  {
+    "id": 2347167796,
+    "calories": 2670,
+    "segment": "moderate",
+    "very_active_mins": 66,
+    "steps": 22244
+  },
+  {
+    "id": 2347167796,
+    "calories": 1882,
+    "segment": "moderate",
+    "very_active_mins": 1,
+    "steps": 5472
+  },
+  {
+    "id": 2347167796,
+    "calories": 1944,
+    "segment": "moderate",
+    "very_active_mins": 11,
+    "steps": 8247
+  },
+  {
+    "id": 2347167796,
+    "calories": 2346,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 6711
+  },
+  {
+    "id": 2347167796,
+    "calories": 2198,
+    "segment": "moderate",
+    "very_active_mins": 11,
+    "steps": 10999
+  },
+  {
+    "id": 2347167796,
+    "calories": 2048,
+    "segment": "moderate",
+    "very_active_mins": 23,
+    "steps": 10080
+  },
+  {
+    "id": 2347167796,
+    "calories": 1946,
+    "segment": "moderate",
+    "very_active_mins": 9,
+    "steps": 7804
+  },
+  {
+    "id": 2347167796,
+    "calories": 2629,
+    "segment": "moderate",
+    "very_active_mins": 32,
+    "steps": 16901
+  },
+  {
+    "id": 2347167796,
+    "calories": 2187,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 9471
+  },
+  {
+    "id": 2347167796,
+    "calories": 2095,
+    "segment": "moderate",
+    "very_active_mins": 15,
+    "steps": 9482
+  },
+  {
+    "id": 2347167796,
+    "calories": 1861,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 5980
+  },
+  {
+    "id": 2347167796,
+    "calories": 2194,
+    "segment": "moderate",
+    "very_active_mins": 26,
+    "steps": 11423
+  },
+  {
+    "id": 2347167796,
+    "calories": 1854,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 5439
+  },
+  {
+    "id": 2347167796,
+    "calories": 403,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 42
+  },
+  {
+    "id": 2873212765,
+    "calories": 2004,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 7618
+  },
+  {
+    "id": 2873212765,
+    "calories": 1893,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 7910
+  },
+  {
+    "id": 2873212765,
+    "calories": 2063,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 8482
+  },
+  {
+    "id": 2873212765,
+    "calories": 2148,
+    "segment": "moderate",
+    "very_active_mins": 47,
+    "steps": 9685
+  },
+  {
+    "id": 2873212765,
+    "calories": 1529,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 2524
+  },
+  {
+    "id": 2873212765,
+    "calories": 1890,
+    "segment": "moderate",
+    "very_active_mins": 1,
+    "steps": 7762
+  },
+  {
+    "id": 2873212765,
+    "calories": 1956,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 7948
+  },
+  {
+    "id": 2873212765,
+    "calories": 2094,
+    "segment": "moderate",
+    "very_active_mins": 22,
+    "steps": 9202
+  },
+  {
+    "id": 2873212765,
+    "calories": 1970,
+    "segment": "moderate",
+    "very_active_mins": 2,
+    "steps": 8859
+  },
+  {
+    "id": 2873212765,
+    "calories": 2241,
+    "segment": "moderate",
+    "very_active_mins": 46,
+    "steps": 7286
+  },
+  {
+    "id": 2873212765,
+    "calories": 2021,
+    "segment": "moderate",
+    "very_active_mins": 28,
+    "steps": 9317
+  },
+  {
+    "id": 2873212765,
+    "calories": 1898,
+    "segment": "moderate",
+    "very_active_mins": 46,
+    "steps": 6873
+  },
+  {
+    "id": 2873212765,
+    "calories": 1907,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 7373
+  },
+  {
+    "id": 2873212765,
+    "calories": 1882,
+    "segment": "moderate",
+    "very_active_mins": 2,
+    "steps": 8242
+  },
+  {
+    "id": 2873212765,
+    "calories": 1966,
+    "segment": "moderate",
+    "very_active_mins": 46,
+    "steps": 3516
+  },
+  {
+    "id": 2873212765,
+    "calories": 1835,
+    "segment": "moderate",
+    "very_active_mins": 28,
+    "steps": 7913
+  },
+  {
+    "id": 2873212765,
+    "calories": 1780,
+    "segment": "moderate",
+    "very_active_mins": 20,
+    "steps": 7365
+  },
+  {
+    "id": 2873212765,
+    "calories": 1830,
+    "segment": "moderate",
+    "very_active_mins": 5,
+    "steps": 8452
+  },
+  {
+    "id": 2873212765,
+    "calories": 1739,
+    "segment": "moderate",
+    "very_active_mins": 7,
+    "steps": 7399
+  },
+  {
+    "id": 2873212765,
+    "calories": 1878,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 7525
+  },
+  {
+    "id": 2873212765,
+    "calories": 1906,
+    "segment": "moderate",
+    "very_active_mins": 1,
+    "steps": 7412
+  },
+  {
+    "id": 2873212765,
+    "calories": 2015,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 8278
+  },
+  {
+    "id": 2873212765,
+    "calories": 1971,
+    "segment": "moderate",
+    "very_active_mins": 13,
+    "steps": 8314
+  },
+  {
+    "id": 2873212765,
+    "calories": 1910,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 7063
+  },
+  {
+    "id": 2873212765,
+    "calories": 1897,
+    "segment": "moderate",
+    "very_active_mins": 75,
+    "steps": 4940
+  },
+  {
+    "id": 2873212765,
+    "calories": 2096,
+    "segment": "moderate",
+    "very_active_mins": 46,
+    "steps": 8168
+  },
+  {
+    "id": 2873212765,
+    "calories": 1906,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 7726
+  },
+  {
+    "id": 2873212765,
+    "calories": 1962,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 8275
+  },
+  {
+    "id": 2873212765,
+    "calories": 1826,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 6440
+  },
+  {
+    "id": 2873212765,
+    "calories": 1431,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 7566
+  },
+  {
+    "id": 3372868164,
+    "calories": 1788,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 4747
+  },
+  {
+    "id": 3372868164,
+    "calories": 2093,
+    "segment": "moderate",
+    "very_active_mins": 16,
+    "steps": 9715
+  },
+  {
+    "id": 3372868164,
+    "calories": 2065,
+    "segment": "moderate",
+    "very_active_mins": 6,
+    "steps": 8844
+  },
+  {
+    "id": 3372868164,
+    "calories": 1908,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 7451
+  },
+  {
+    "id": 3372868164,
+    "calories": 1908,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 6905
+  },
+  {
+    "id": 3372868164,
+    "calories": 1964,
+    "segment": "moderate",
+    "very_active_mins": 11,
+    "steps": 8199
+  },
+  {
+    "id": 3372868164,
+    "calories": 2014,
+    "segment": "moderate",
+    "very_active_mins": 20,
+    "steps": 6798
+  },
+  {
+    "id": 3372868164,
+    "calories": 1985,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 7711
+  },
+  {
+    "id": 3372868164,
+    "calories": 1867,
+    "segment": "moderate",
+    "very_active_mins": 15,
+    "steps": 4880
+  },
+  {
+    "id": 3372868164,
+    "calories": 2124,
+    "segment": "moderate",
+    "very_active_mins": 18,
+    "steps": 8857
+  },
+  {
+    "id": 3372868164,
+    "calories": 1669,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 3843
+  },
+  {
+    "id": 3372868164,
+    "calories": 1995,
+    "segment": "moderate",
+    "very_active_mins": 20,
+    "steps": 7396
+  },
+  {
+    "id": 3372868164,
+    "calories": 1921,
+    "segment": "moderate",
+    "very_active_mins": 14,
+    "steps": 6731
+  },
+  {
+    "id": 3372868164,
+    "calories": 2010,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 5995
+  },
+  {
+    "id": 3372868164,
+    "calories": 2057,
+    "segment": "moderate",
+    "very_active_mins": 22,
+    "steps": 8283
+  },
+  {
+    "id": 3372868164,
+    "calories": 2095,
+    "segment": "moderate",
+    "very_active_mins": 24,
+    "steps": 7904
+  },
+  {
+    "id": 3372868164,
+    "calories": 1972,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 5512
+  },
+  {
+    "id": 3372868164,
+    "calories": 2044,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 9135
+  },
+  {
+    "id": 3372868164,
+    "calories": 1946,
+    "segment": "moderate",
+    "very_active_mins": 17,
+    "steps": 5250
+  },
+  {
+    "id": 3372868164,
+    "calories": 1237,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 3077
+  },
+  {
+    "id": 3977333714,
+    "calories": 1495,
+    "segment": "high",
+    "very_active_mins": 31,
+    "steps": 10035
+  },
+  {
+    "id": 3977333714,
+    "calories": 1433,
+    "segment": "high",
+    "very_active_mins": 5,
+    "steps": 7641
+  },
+  {
+    "id": 3977333714,
+    "calories": 1468,
+    "segment": "high",
+    "very_active_mins": 15,
+    "steps": 9010
+  },
+  {
+    "id": 3977333714,
+    "calories": 1625,
+    "segment": "high",
+    "very_active_mins": 31,
+    "steps": 13459
+  },
+  {
+    "id": 3977333714,
+    "calories": 1529,
+    "segment": "high",
+    "very_active_mins": 11,
+    "steps": 10415
+  },
+  {
+    "id": 3977333714,
+    "calories": 1584,
+    "segment": "high",
+    "very_active_mins": 4,
+    "steps": 11663
+  },
+  {
+    "id": 3977333714,
+    "calories": 1638,
+    "segment": "high",
+    "very_active_mins": 19,
+    "steps": 12414
+  },
+  {
+    "id": 3977333714,
+    "calories": 1554,
+    "segment": "high",
+    "very_active_mins": 2,
+    "steps": 11658
+  },
+  {
+    "id": 3977333714,
+    "calories": 1397,
+    "segment": "high",
+    "very_active_mins": 0,
+    "steps": 6093
+  },
+  {
+    "id": 3977333714,
+    "calories": 1481,
+    "segment": "high",
+    "very_active_mins": 33,
+    "steps": 8911
+  },
+  {
+    "id": 3977333714,
+    "calories": 1638,
+    "segment": "high",
+    "very_active_mins": 0,
+    "steps": 12058
+  },
+  {
+    "id": 3977333714,
+    "calories": 1655,
+    "segment": "high",
+    "very_active_mins": 30,
+    "steps": 14112
+  },
+  {
+    "id": 3977333714,
+    "calories": 1570,
+    "segment": "high",
+    "very_active_mins": 50,
+    "steps": 11177
+  },
+  {
+    "id": 3977333714,
+    "calories": 1551,
+    "segment": "high",
+    "very_active_mins": 7,
+    "steps": 11388
+  },
+  {
+    "id": 3977333714,
+    "calories": 1377,
+    "segment": "high",
+    "very_active_mins": 0,
+    "steps": 7193
+  },
+  {
+    "id": 3977333714,
+    "calories": 1407,
+    "segment": "high",
+    "very_active_mins": 15,
+    "steps": 7114
+  },
+  {
+    "id": 3977333714,
+    "calories": 1545,
+    "segment": "high",
+    "very_active_mins": 36,
+    "steps": 10645
+  },
+  {
+    "id": 3977333714,
+    "calories": 1650,
+    "segment": "high",
+    "very_active_mins": 43,
+    "steps": 13238
+  },
+  {
+    "id": 3977333714,
+    "calories": 1501,
+    "segment": "high",
+    "very_active_mins": 41,
+    "steps": 10414
+  },
+  {
+    "id": 3977333714,
+    "calories": 1760,
+    "segment": "high",
+    "very_active_mins": 24,
+    "steps": 16520
+  },
+  {
+    "id": 3977333714,
+    "calories": 1710,
+    "segment": "high",
+    "very_active_mins": 47,
+    "steps": 14335
+  },
+  {
+    "id": 3977333714,
+    "calories": 1628,
+    "segment": "high",
+    "very_active_mins": 14,
+    "steps": 13559
+  },
+  {
+    "id": 3977333714,
+    "calories": 1618,
+    "segment": "high",
+    "very_active_mins": 14,
+    "steps": 12312
+  },
+  {
+    "id": 3977333714,
+    "calories": 1590,
+    "segment": "high",
+    "very_active_mins": 29,
+    "steps": 11677
+  },
+  {
+    "id": 3977333714,
+    "calories": 1574,
+    "segment": "high",
+    "very_active_mins": 0,
+    "steps": 11550
+  },
+  {
+    "id": 3977333714,
+    "calories": 1633,
+    "segment": "high",
+    "very_active_mins": 9,
+    "steps": 13585
+  },
+  {
+    "id": 3977333714,
+    "calories": 1667,
+    "segment": "high",
+    "very_active_mins": 8,
+    "steps": 14687
+  },
+  {
+    "id": 3977333714,
+    "calories": 1630,
+    "segment": "high",
+    "very_active_mins": 1,
+    "steps": 13072
+  },
+  {
+    "id": 3977333714,
+    "calories": 52,
+    "segment": "high",
+    "very_active_mins": 4,
+    "steps": 746
+  },
+  {
+    "id": 4020332650,
+    "calories": 1981,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 4020332650,
+    "calories": 2011,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 108
+  },
+  {
+    "id": 4020332650,
+    "calories": 2951,
+    "segment": "sedentary",
+    "very_active_mins": 36,
+    "steps": 1882
+  },
+  {
+    "id": 4020332650,
+    "calories": 3051,
+    "segment": "sedentary",
+    "very_active_mins": 65,
+    "steps": 1982
+  },
+  {
+    "id": 4020332650,
+    "calories": 1990,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 16
+  },
+  {
+    "id": 4020332650,
+    "calories": 1995,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 62
+  },
+  {
+    "id": 4020332650,
+    "calories": 1980,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 4020332650,
+    "calories": 1980,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 4020332650,
+    "calories": 1980,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 4020332650,
+    "calories": 1980,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 4020332650,
+    "calories": 1980,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 4020332650,
+    "calories": 1980,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 4020332650,
+    "calories": 1980,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 4020332650,
+    "calories": 1980,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 4020332650,
+    "calories": 1980,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 4020332650,
+    "calories": 1980,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 4020332650,
+    "calories": 1980,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 4020332650,
+    "calories": 1980,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 4020332650,
+    "calories": 1980,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 4020332650,
+    "calories": 2207,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 475
+  },
+  {
+    "id": 4020332650,
+    "calories": 2828,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 4496
+  },
+  {
+    "id": 4020332650,
+    "calories": 3879,
+    "segment": "sedentary",
+    "very_active_mins": 13,
+    "steps": 10252
+  },
+  {
+    "id": 4020332650,
+    "calories": 3429,
+    "segment": "sedentary",
+    "very_active_mins": 38,
+    "steps": 11728
+  },
+  {
+    "id": 4020332650,
+    "calories": 2704,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 4369
+  },
+  {
+    "id": 4020332650,
+    "calories": 2975,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 6132
+  },
+  {
+    "id": 4020332650,
+    "calories": 3089,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 5862
+  },
+  {
+    "id": 4020332650,
+    "calories": 2785,
+    "segment": "sedentary",
+    "very_active_mins": 3,
+    "steps": 4556
+  },
+  {
+    "id": 4020332650,
+    "calories": 2926,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 5546
+  },
+  {
+    "id": 4020332650,
+    "calories": 2645,
+    "segment": "sedentary",
+    "very_active_mins": 2,
+    "steps": 3689
+  },
+  {
+    "id": 4020332650,
+    "calories": 1120,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 590
+  },
+  {
+    "id": 4057192912,
+    "calories": 2306,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 5974
+  },
+  {
+    "id": 4057192912,
+    "calories": 1776,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 4057192912,
+    "calories": 1527,
+    "segment": "sedentary",
+    "very_active_mins": 3,
+    "steps": 3984
+  },
+  {
+    "id": 4319703577,
+    "calories": 2115,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 7753
+  },
+  {
+    "id": 4319703577,
+    "calories": 2135,
+    "segment": "moderate",
+    "very_active_mins": 8,
+    "steps": 8204
+  },
+  {
+    "id": 4319703577,
+    "calories": 2302,
+    "segment": "moderate",
+    "very_active_mins": 1,
+    "steps": 10210
+  },
+  {
+    "id": 4319703577,
+    "calories": 1985,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 5664
+  },
+  {
+    "id": 4319703577,
+    "calories": 1884,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 4744
+  },
+  {
+    "id": 4319703577,
+    "calories": 1464,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 29
+  },
+  {
+    "id": 4319703577,
+    "calories": 1632,
+    "segment": "moderate",
+    "very_active_mins": 1,
+    "steps": 2276
+  },
+  {
+    "id": 4319703577,
+    "calories": 2200,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 8925
+  },
+  {
+    "id": 4319703577,
+    "calories": 2220,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 8954
+  },
+  {
+    "id": 4319703577,
+    "calories": 1792,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 3702
+  },
+  {
+    "id": 4319703577,
+    "calories": 1886,
+    "segment": "moderate",
+    "very_active_mins": 1,
+    "steps": 4500
+  },
+  {
+    "id": 4319703577,
+    "calories": 1945,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 4935
+  },
+  {
+    "id": 4319703577,
+    "calories": 1880,
+    "segment": "moderate",
+    "very_active_mins": 1,
+    "steps": 4081
+  },
+  {
+    "id": 4319703577,
+    "calories": 2314,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 9259
+  },
+  {
+    "id": 4319703577,
+    "calories": 2236,
+    "segment": "moderate",
+    "very_active_mins": 8,
+    "steps": 9899
+  },
+  {
+    "id": 4319703577,
+    "calories": 2324,
+    "segment": "moderate",
+    "very_active_mins": 6,
+    "steps": 10780
+  },
+  {
+    "id": 4319703577,
+    "calories": 2367,
+    "segment": "moderate",
+    "very_active_mins": 13,
+    "steps": 10817
+  },
+  {
+    "id": 4319703577,
+    "calories": 2175,
+    "segment": "moderate",
+    "very_active_mins": 6,
+    "steps": 7990
+  },
+  {
+    "id": 4319703577,
+    "calories": 2092,
+    "segment": "moderate",
+    "very_active_mins": 6,
+    "steps": 8221
+  },
+  {
+    "id": 4319703577,
+    "calories": 1593,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 1251
+  },
+  {
+    "id": 4319703577,
+    "calories": 2270,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 9261
+  },
+  {
+    "id": 4319703577,
+    "calories": 2235,
+    "segment": "moderate",
+    "very_active_mins": 8,
+    "steps": 9648
+  },
+  {
+    "id": 4319703577,
+    "calories": 2282,
+    "segment": "moderate",
+    "very_active_mins": 8,
+    "steps": 10429
+  },
+  {
+    "id": 4319703577,
+    "calories": 2530,
+    "segment": "moderate",
+    "very_active_mins": 27,
+    "steps": 13658
+  },
+  {
+    "id": 4319703577,
+    "calories": 2266,
+    "segment": "moderate",
+    "very_active_mins": 6,
+    "steps": 9524
+  },
+  {
+    "id": 4319703577,
+    "calories": 2158,
+    "segment": "moderate",
+    "very_active_mins": 3,
+    "steps": 7937
+  },
+  {
+    "id": 4319703577,
+    "calories": 1792,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 3672
+  },
+  {
+    "id": 4319703577,
+    "calories": 2345,
+    "segment": "moderate",
+    "very_active_mins": 2,
+    "steps": 10378
+  },
+  {
+    "id": 4319703577,
+    "calories": 2260,
+    "segment": "moderate",
+    "very_active_mins": 3,
+    "steps": 9487
+  },
+  {
+    "id": 4319703577,
+    "calories": 2232,
+    "segment": "moderate",
+    "very_active_mins": 3,
+    "steps": 9129
+  },
+  {
+    "id": 4319703577,
+    "calories": 257,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 17
+  },
+  {
+    "id": 4388161847,
+    "calories": 2955,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 10122
+  },
+  {
+    "id": 4388161847,
+    "calories": 3092,
+    "segment": "moderate",
+    "very_active_mins": 1,
+    "steps": 10993
+  },
+  {
+    "id": 4388161847,
+    "calories": 2998,
+    "segment": "moderate",
+    "very_active_mins": 10,
+    "steps": 8863
+  },
+  {
+    "id": 4388161847,
+    "calories": 3066,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 8758
+  },
+  {
+    "id": 4388161847,
+    "calories": 3073,
+    "segment": "moderate",
+    "very_active_mins": 6,
+    "steps": 6580
+  },
+  {
+    "id": 4388161847,
+    "calories": 2572,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 4660
+  },
+  {
+    "id": 4388161847,
+    "calories": 3274,
+    "segment": "moderate",
+    "very_active_mins": 27,
+    "steps": 11009
+  },
+  {
+    "id": 4388161847,
+    "calories": 3015,
+    "segment": "moderate",
+    "very_active_mins": 20,
+    "steps": 10181
+  },
+  {
+    "id": 4388161847,
+    "calories": 3083,
+    "segment": "moderate",
+    "very_active_mins": 19,
+    "steps": 10553
+  },
+  {
+    "id": 4388161847,
+    "calories": 3069,
+    "segment": "moderate",
+    "very_active_mins": 7,
+    "steps": 10055
+  },
+  {
+    "id": 4388161847,
+    "calories": 3544,
+    "segment": "moderate",
+    "very_active_mins": 77,
+    "steps": 12139
+  },
+  {
+    "id": 4388161847,
+    "calories": 3306,
+    "segment": "moderate",
+    "very_active_mins": 58,
+    "steps": 13236
+  },
+  {
+    "id": 4388161847,
+    "calories": 2885,
+    "segment": "moderate",
+    "very_active_mins": 14,
+    "steps": 10243
+  },
+  {
+    "id": 4388161847,
+    "calories": 3288,
+    "segment": "moderate",
+    "very_active_mins": 11,
+    "steps": 12961
+  },
+  {
+    "id": 4388161847,
+    "calories": 2929,
+    "segment": "moderate",
+    "very_active_mins": 14,
+    "steps": 9461
+  },
+  {
+    "id": 4388161847,
+    "calories": 3074,
+    "segment": "moderate",
+    "very_active_mins": 11,
+    "steps": 11193
+  },
+  {
+    "id": 4388161847,
+    "calories": 2969,
+    "segment": "moderate",
+    "very_active_mins": 19,
+    "steps": 10074
+  },
+  {
+    "id": 4388161847,
+    "calories": 2979,
+    "segment": "moderate",
+    "very_active_mins": 13,
+    "steps": 9232
+  },
+  {
+    "id": 4388161847,
+    "calories": 3283,
+    "segment": "moderate",
+    "very_active_mins": 14,
+    "steps": 12533
+  },
+  {
+    "id": 4388161847,
+    "calories": 2926,
+    "segment": "moderate",
+    "very_active_mins": 12,
+    "steps": 10255
+  },
+  {
+    "id": 4388161847,
+    "calories": 3147,
+    "segment": "moderate",
+    "very_active_mins": 33,
+    "steps": 10096
+  },
+  {
+    "id": 4388161847,
+    "calories": 3290,
+    "segment": "moderate",
+    "very_active_mins": 18,
+    "steps": 12727
+  },
+  {
+    "id": 4388161847,
+    "calories": 3162,
+    "segment": "moderate",
+    "very_active_mins": 35,
+    "steps": 12375
+  },
+  {
+    "id": 4388161847,
+    "calories": 2899,
+    "segment": "moderate",
+    "very_active_mins": 12,
+    "steps": 9603
+  },
+  {
+    "id": 4388161847,
+    "calories": 3425,
+    "segment": "moderate",
+    "very_active_mins": 33,
+    "steps": 13175
+  },
+  {
+    "id": 4388161847,
+    "calories": 4022,
+    "segment": "moderate",
+    "very_active_mins": 120,
+    "steps": 22770
+  },
+  {
+    "id": 4388161847,
+    "calories": 3934,
+    "segment": "moderate",
+    "very_active_mins": 107,
+    "steps": 17298
+  },
+  {
+    "id": 4388161847,
+    "calories": 3013,
+    "segment": "moderate",
+    "very_active_mins": 6,
+    "steps": 10218
+  },
+  {
+    "id": 4388161847,
+    "calories": 3061,
+    "segment": "moderate",
+    "very_active_mins": 13,
+    "steps": 10299
+  },
+  {
+    "id": 4388161847,
+    "calories": 2954,
+    "segment": "moderate",
+    "very_active_mins": 8,
+    "steps": 10201
+  },
+  {
+    "id": 4388161847,
+    "calories": 1623,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 3369
+  },
+  {
+    "id": 4445114986,
+    "calories": 2095,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 2961
+  },
+  {
+    "id": 4445114986,
+    "calories": 2194,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 3974
+  },
+  {
+    "id": 4445114986,
+    "calories": 2496,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 7198
+  },
+  {
+    "id": 4445114986,
+    "calories": 2180,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 3945
+  },
+  {
+    "id": 4445114986,
+    "calories": 1933,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 2268
+  },
+  {
+    "id": 4445114986,
+    "calories": 2248,
+    "segment": "sedentary",
+    "very_active_mins": 25,
+    "steps": 6155
+  },
+  {
+    "id": 4445114986,
+    "calories": 1954,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 2064
+  },
+  {
+    "id": 4445114986,
+    "calories": 1974,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 2072
+  },
+  {
+    "id": 4445114986,
+    "calories": 2150,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 3809
+  },
+  {
+    "id": 4445114986,
+    "calories": 2432,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 6831
+  },
+  {
+    "id": 4445114986,
+    "calories": 2149,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 4363
+  },
+  {
+    "id": 4445114986,
+    "calories": 2247,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 5002
+  },
+  {
+    "id": 4445114986,
+    "calories": 2070,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 3385
+  },
+  {
+    "id": 4445114986,
+    "calories": 2291,
+    "segment": "sedentary",
+    "very_active_mins": 29,
+    "steps": 6326
+  },
+  {
+    "id": 4445114986,
+    "calories": 2361,
+    "segment": "sedentary",
+    "very_active_mins": 32,
+    "steps": 7243
+  },
+  {
+    "id": 4445114986,
+    "calories": 2203,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 4493
+  },
+  {
+    "id": 4445114986,
+    "calories": 2196,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 4676
+  },
+  {
+    "id": 4445114986,
+    "calories": 2363,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 6222
+  },
+  {
+    "id": 4445114986,
+    "calories": 2246,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 5232
+  },
+  {
+    "id": 4445114986,
+    "calories": 2336,
+    "segment": "sedentary",
+    "very_active_mins": 27,
+    "steps": 6910
+  },
+  {
+    "id": 4445114986,
+    "calories": 2421,
+    "segment": "sedentary",
+    "very_active_mins": 30,
+    "steps": 7502
+  },
+  {
+    "id": 4445114986,
+    "calories": 2070,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 2923
+  },
+  {
+    "id": 4445114986,
+    "calories": 2120,
+    "segment": "sedentary",
+    "very_active_mins": 2,
+    "steps": 3800
+  },
+  {
+    "id": 4445114986,
+    "calories": 2211,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 4514
+  },
+  {
+    "id": 4445114986,
+    "calories": 2123,
+    "segment": "sedentary",
+    "very_active_mins": 26,
+    "steps": 5183
+  },
+  {
+    "id": 4445114986,
+    "calories": 2423,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 7303
+  },
+  {
+    "id": 4445114986,
+    "calories": 2281,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 5275
+  },
+  {
+    "id": 4445114986,
+    "calories": 2181,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 3915
+  },
+  {
+    "id": 4445114986,
+    "calories": 2499,
+    "segment": "sedentary",
+    "very_active_mins": 34,
+    "steps": 9105
+  },
+  {
+    "id": 4445114986,
+    "calories": 1212,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 768
+  },
+  {
+    "id": 4558609924,
+    "calories": 1722,
+    "segment": "moderate",
+    "very_active_mins": 19,
+    "steps": 4978
+  },
+  {
+    "id": 4558609924,
+    "calories": 1922,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 6799
+  },
+  {
+    "id": 4558609924,
+    "calories": 2121,
+    "segment": "moderate",
+    "very_active_mins": 17,
+    "steps": 7795
+  },
+  {
+    "id": 4558609924,
+    "calories": 1997,
+    "segment": "moderate",
+    "very_active_mins": 8,
+    "steps": 7289
+  },
+  {
+    "id": 4558609924,
+    "calories": 2117,
+    "segment": "moderate",
+    "very_active_mins": 7,
+    "steps": 9634
+  },
+  {
+    "id": 4558609924,
+    "calories": 2116,
+    "segment": "moderate",
+    "very_active_mins": 14,
+    "steps": 8940
+  },
+  {
+    "id": 4558609924,
+    "calories": 1876,
+    "segment": "moderate",
+    "very_active_mins": 1,
+    "steps": 5401
+  },
+  {
+    "id": 4558609924,
+    "calories": 1788,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 4803
+  },
+  {
+    "id": 4558609924,
+    "calories": 2486,
+    "segment": "moderate",
+    "very_active_mins": 6,
+    "steps": 13743
+  },
+  {
+    "id": 4558609924,
+    "calories": 2094,
+    "segment": "moderate",
+    "very_active_mins": 20,
+    "steps": 9601
+  },
+  {
+    "id": 4558609924,
+    "calories": 2085,
+    "segment": "moderate",
+    "very_active_mins": 5,
+    "steps": 6890
+  },
+  {
+    "id": 4558609924,
+    "calories": 2173,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 8563
+  },
+  {
+    "id": 4558609924,
+    "calories": 2225,
+    "segment": "moderate",
+    "very_active_mins": 18,
+    "steps": 8095
+  },
+  {
+    "id": 4558609924,
+    "calories": 2223,
+    "segment": "moderate",
+    "very_active_mins": 12,
+    "steps": 9148
+  },
+  {
+    "id": 4558609924,
+    "calories": 2098,
+    "segment": "moderate",
+    "very_active_mins": 27,
+    "steps": 9557
+  },
+  {
+    "id": 4558609924,
+    "calories": 2185,
+    "segment": "moderate",
+    "very_active_mins": 1,
+    "steps": 9451
+  },
+  {
+    "id": 4558609924,
+    "calories": 1918,
+    "segment": "moderate",
+    "very_active_mins": 15,
+    "steps": 7833
+  },
+  {
+    "id": 4558609924,
+    "calories": 2105,
+    "segment": "moderate",
+    "very_active_mins": 7,
+    "steps": 10319
+  },
+  {
+    "id": 4558609924,
+    "calories": 1692,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 3428
+  },
+  {
+    "id": 4558609924,
+    "calories": 2066,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 7891
+  },
+  {
+    "id": 4558609924,
+    "calories": 1953,
+    "segment": "moderate",
+    "very_active_mins": 21,
+    "steps": 5267
+  },
+  {
+    "id": 4558609924,
+    "calories": 1842,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 5232
+  },
+  {
+    "id": 4558609924,
+    "calories": 2262,
+    "segment": "moderate",
+    "very_active_mins": 14,
+    "steps": 10611
+  },
+  {
+    "id": 4558609924,
+    "calories": 1722,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 3755
+  },
+  {
+    "id": 4558609924,
+    "calories": 1973,
+    "segment": "moderate",
+    "very_active_mins": 23,
+    "steps": 8237
+  },
+  {
+    "id": 4558609924,
+    "calories": 2666,
+    "segment": "moderate",
+    "very_active_mins": 66,
+    "steps": 6543
+  },
+  {
+    "id": 4558609924,
+    "calories": 2223,
+    "segment": "moderate",
+    "very_active_mins": 6,
+    "steps": 11451
+  },
+  {
+    "id": 4558609924,
+    "calories": 1889,
+    "segment": "moderate",
+    "very_active_mins": 11,
+    "steps": 6435
+  },
+  {
+    "id": 4558609924,
+    "calories": 2131,
+    "segment": "moderate",
+    "very_active_mins": 4,
+    "steps": 9108
+  },
+  {
+    "id": 4558609924,
+    "calories": 1452,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 6307
+  },
+  {
+    "id": 4702921684,
+    "calories": 2898,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 6877
+  },
+  {
+    "id": 4702921684,
+    "calories": 2984,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 7860
+  },
+  {
+    "id": 4702921684,
+    "calories": 2896,
+    "segment": "moderate",
+    "very_active_mins": 1,
+    "steps": 6506
+  },
+  {
+    "id": 4702921684,
+    "calories": 3328,
+    "segment": "moderate",
+    "very_active_mins": 3,
+    "steps": 11140
+  },
+  {
+    "id": 4702921684,
+    "calories": 3394,
+    "segment": "moderate",
+    "very_active_mins": 12,
+    "steps": 12692
+  },
+  {
+    "id": 4702921684,
+    "calories": 3013,
+    "segment": "moderate",
+    "very_active_mins": 22,
+    "steps": 9105
+  },
+  {
+    "id": 4702921684,
+    "calories": 2812,
+    "segment": "moderate",
+    "very_active_mins": 10,
+    "steps": 6708
+  },
+  {
+    "id": 4702921684,
+    "calories": 3061,
+    "segment": "moderate",
+    "very_active_mins": 2,
+    "steps": 8793
+  },
+  {
+    "id": 4702921684,
+    "calories": 2729,
+    "segment": "moderate",
+    "very_active_mins": 4,
+    "steps": 6530
+  },
+  {
+    "id": 4702921684,
+    "calories": 2241,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 1664
+  },
+  {
+    "id": 4702921684,
+    "calories": 3691,
+    "segment": "moderate",
+    "very_active_mins": 9,
+    "steps": 15126
+  },
+  {
+    "id": 4702921684,
+    "calories": 3538,
+    "segment": "moderate",
+    "very_active_mins": 15,
+    "steps": 15050
+  },
+  {
+    "id": 4702921684,
+    "calories": 3064,
+    "segment": "moderate",
+    "very_active_mins": 6,
+    "steps": 9167
+  },
+  {
+    "id": 4702921684,
+    "calories": 2784,
+    "segment": "moderate",
+    "very_active_mins": 1,
+    "steps": 6108
+  },
+  {
+    "id": 4702921684,
+    "calories": 2908,
+    "segment": "moderate",
+    "very_active_mins": 1,
+    "steps": 7047
+  },
+  {
+    "id": 4702921684,
+    "calories": 3033,
+    "segment": "moderate",
+    "very_active_mins": 14,
+    "steps": 9023
+  },
+  {
+    "id": 4702921684,
+    "calories": 3165,
+    "segment": "moderate",
+    "very_active_mins": 12,
+    "steps": 9930
+  },
+  {
+    "id": 4702921684,
+    "calories": 3115,
+    "segment": "moderate",
+    "very_active_mins": 4,
+    "steps": 10144
+  },
+  {
+    "id": 4702921684,
+    "calories": 2017,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 4702921684,
+    "calories": 2859,
+    "segment": "moderate",
+    "very_active_mins": 5,
+    "steps": 7245
+  },
+  {
+    "id": 4702921684,
+    "calories": 3145,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 9454
+  },
+  {
+    "id": 4702921684,
+    "calories": 3004,
+    "segment": "moderate",
+    "very_active_mins": 4,
+    "steps": 8161
+  },
+  {
+    "id": 4702921684,
+    "calories": 3006,
+    "segment": "moderate",
+    "very_active_mins": 8,
+    "steps": 8614
+  },
+  {
+    "id": 4702921684,
+    "calories": 2859,
+    "segment": "moderate",
+    "very_active_mins": 1,
+    "steps": 6943
+  },
+  {
+    "id": 4702921684,
+    "calories": 3683,
+    "segment": "moderate",
+    "very_active_mins": 5,
+    "steps": 14370
+  },
+  {
+    "id": 4702921684,
+    "calories": 3287,
+    "segment": "moderate",
+    "very_active_mins": 9,
+    "steps": 12857
+  },
+  {
+    "id": 4702921684,
+    "calories": 2990,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 8232
+  },
+  {
+    "id": 4702921684,
+    "calories": 3172,
+    "segment": "moderate",
+    "very_active_mins": 1,
+    "steps": 10613
+  },
+  {
+    "id": 4702921684,
+    "calories": 3069,
+    "segment": "moderate",
+    "very_active_mins": 10,
+    "steps": 9810
+  },
+  {
+    "id": 4702921684,
+    "calories": 1240,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 2752
+  },
+  {
+    "id": 5553957443,
+    "calories": 1718,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 4832
+  },
+  {
+    "id": 5553957443,
+    "calories": 2324,
+    "segment": "moderate",
+    "very_active_mins": 61,
+    "steps": 17022
+  },
+  {
+    "id": 5553957443,
+    "calories": 2254,
+    "segment": "moderate",
+    "very_active_mins": 58,
+    "steps": 16556
+  },
+  {
+    "id": 5553957443,
+    "calories": 1831,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 5771
+  },
+  {
+    "id": 5553957443,
+    "calories": 1397,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 655
+  },
+  {
+    "id": 5553957443,
+    "calories": 1683,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 3727
+  },
+  {
+    "id": 5553957443,
+    "calories": 2284,
+    "segment": "moderate",
+    "very_active_mins": 69,
+    "steps": 15482
+  },
+  {
+    "id": 5553957443,
+    "calories": 1570,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 2713
+  },
+  {
+    "id": 5553957443,
+    "calories": 2066,
+    "segment": "moderate",
+    "very_active_mins": 47,
+    "steps": 12346
+  },
+  {
+    "id": 5553957443,
+    "calories": 2105,
+    "segment": "moderate",
+    "very_active_mins": 25,
+    "steps": 11682
+  },
+  {
+    "id": 5553957443,
+    "calories": 1776,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 4112
+  },
+  {
+    "id": 5553957443,
+    "calories": 1507,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 1807
+  },
+  {
+    "id": 5553957443,
+    "calories": 2033,
+    "segment": "moderate",
+    "very_active_mins": 51,
+    "steps": 10946
+  },
+  {
+    "id": 5553957443,
+    "calories": 2093,
+    "segment": "moderate",
+    "very_active_mins": 40,
+    "steps": 11886
+  },
+  {
+    "id": 5553957443,
+    "calories": 1922,
+    "segment": "moderate",
+    "very_active_mins": 16,
+    "steps": 10538
+  },
+  {
+    "id": 5553957443,
+    "calories": 1999,
+    "segment": "moderate",
+    "very_active_mins": 49,
+    "steps": 11393
+  },
+  {
+    "id": 5553957443,
+    "calories": 2169,
+    "segment": "moderate",
+    "very_active_mins": 46,
+    "steps": 12764
+  },
+  {
+    "id": 5553957443,
+    "calories": 1463,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 1202
+  },
+  {
+    "id": 5553957443,
+    "calories": 1747,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 5164
+  },
+  {
+    "id": 5553957443,
+    "calories": 1996,
+    "segment": "moderate",
+    "very_active_mins": 23,
+    "steps": 9769
+  },
+  {
+    "id": 5553957443,
+    "calories": 2116,
+    "segment": "moderate",
+    "very_active_mins": 26,
+    "steps": 12848
+  },
+  {
+    "id": 5553957443,
+    "calories": 1698,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 4249
+  },
+  {
+    "id": 5553957443,
+    "calories": 2156,
+    "segment": "moderate",
+    "very_active_mins": 44,
+    "steps": 14331
+  },
+  {
+    "id": 5553957443,
+    "calories": 1916,
+    "segment": "moderate",
+    "very_active_mins": 21,
+    "steps": 9632
+  },
+  {
+    "id": 5553957443,
+    "calories": 1494,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 1868
+  },
+  {
+    "id": 5553957443,
+    "calories": 1762,
+    "segment": "moderate",
+    "very_active_mins": 3,
+    "steps": 6083
+  },
+  {
+    "id": 5553957443,
+    "calories": 2272,
+    "segment": "moderate",
+    "very_active_mins": 59,
+    "steps": 11611
+  },
+  {
+    "id": 5553957443,
+    "calories": 2335,
+    "segment": "moderate",
+    "very_active_mins": 61,
+    "steps": 16358
+  },
+  {
+    "id": 5553957443,
+    "calories": 1693,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 4926
+  },
+  {
+    "id": 5553957443,
+    "calories": 741,
+    "segment": "moderate",
+    "very_active_mins": 8,
+    "steps": 3121
+  },
+  {
+    "id": 5577150313,
+    "calories": 3405,
+    "segment": "moderate",
+    "very_active_mins": 86,
+    "steps": 8135
+  },
+  {
+    "id": 5577150313,
+    "calories": 2551,
+    "segment": "moderate",
+    "very_active_mins": 15,
+    "steps": 5077
+  },
+  {
+    "id": 5577150313,
+    "calories": 4022,
+    "segment": "moderate",
+    "very_active_mins": 118,
+    "steps": 8596
+  },
+  {
+    "id": 5577150313,
+    "calories": 4005,
+    "segment": "moderate",
+    "very_active_mins": 115,
+    "steps": 12087
+  },
+  {
+    "id": 5577150313,
+    "calories": 4274,
+    "segment": "moderate",
+    "very_active_mins": 184,
+    "steps": 14269
+  },
+  {
+    "id": 5577150313,
+    "calories": 4552,
+    "segment": "moderate",
+    "very_active_mins": 200,
+    "steps": 12231
+  },
+  {
+    "id": 5577150313,
+    "calories": 3625,
+    "segment": "moderate",
+    "very_active_mins": 114,
+    "steps": 9893
+  },
+  {
+    "id": 5577150313,
+    "calories": 3501,
+    "segment": "moderate",
+    "very_active_mins": 108,
+    "steps": 12574
+  },
+  {
+    "id": 5577150313,
+    "calories": 3192,
+    "segment": "moderate",
+    "very_active_mins": 87,
+    "steps": 8330
+  },
+  {
+    "id": 5577150313,
+    "calories": 4018,
+    "segment": "moderate",
+    "very_active_mins": 110,
+    "steps": 10830
+  },
+  {
+    "id": 5577150313,
+    "calories": 3329,
+    "segment": "moderate",
+    "very_active_mins": 62,
+    "steps": 9172
+  },
+  {
+    "id": 5577150313,
+    "calories": 3152,
+    "segment": "moderate",
+    "very_active_mins": 24,
+    "steps": 7638
+  },
+  {
+    "id": 5577150313,
+    "calories": 4392,
+    "segment": "moderate",
+    "very_active_mins": 210,
+    "steps": 15764
+  },
+  {
+    "id": 5577150313,
+    "calories": 3374,
+    "segment": "moderate",
+    "very_active_mins": 61,
+    "steps": 6393
+  },
+  {
+    "id": 5577150313,
+    "calories": 3088,
+    "segment": "moderate",
+    "very_active_mins": 38,
+    "steps": 5325
+  },
+  {
+    "id": 5577150313,
+    "calories": 3294,
+    "segment": "moderate",
+    "very_active_mins": 63,
+    "steps": 6805
+  },
+  {
+    "id": 5577150313,
+    "calories": 3580,
+    "segment": "moderate",
+    "very_active_mins": 99,
+    "steps": 9841
+  },
+  {
+    "id": 5577150313,
+    "calories": 3544,
+    "segment": "moderate",
+    "very_active_mins": 97,
+    "steps": 7924
+  },
+  {
+    "id": 5577150313,
+    "calories": 4501,
+    "segment": "moderate",
+    "very_active_mins": 207,
+    "steps": 12363
+  },
+  {
+    "id": 5577150313,
+    "calories": 4546,
+    "segment": "moderate",
+    "very_active_mins": 194,
+    "steps": 13368
+  },
+  {
+    "id": 5577150313,
+    "calories": 3014,
+    "segment": "moderate",
+    "very_active_mins": 37,
+    "steps": 7439
+  },
+  {
+    "id": 5577150313,
+    "calories": 3795,
+    "segment": "moderate",
+    "very_active_mins": 97,
+    "steps": 11045
+  },
+  {
+    "id": 5577150313,
+    "calories": 2755,
+    "segment": "moderate",
+    "very_active_mins": 25,
+    "steps": 5206
+  },
+  {
+    "id": 5577150313,
+    "calories": 3004,
+    "segment": "moderate",
+    "very_active_mins": 45,
+    "steps": 7550
+  },
+  {
+    "id": 5577150313,
+    "calories": 2643,
+    "segment": "moderate",
+    "very_active_mins": 41,
+    "steps": 4950
+  },
+  {
+    "id": 5577150313,
+    "calories": 1819,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 5577150313,
+    "calories": 1819,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 5577150313,
+    "calories": 2489,
+    "segment": "moderate",
+    "very_active_mins": 34,
+    "steps": 3421
+  },
+  {
+    "id": 5577150313,
+    "calories": 3841,
+    "segment": "moderate",
+    "very_active_mins": 104,
+    "steps": 8869
+  },
+  {
+    "id": 5577150313,
+    "calories": 1665,
+    "segment": "moderate",
+    "very_active_mins": 45,
+    "steps": 4038
+  },
+  {
+    "id": 6117666160,
+    "calories": 1496,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 6117666160,
+    "calories": 1496,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 6117666160,
+    "calories": 1496,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 6117666160,
+    "calories": 2865,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 14019
+  },
+  {
+    "id": 6117666160,
+    "calories": 2828,
+    "segment": "moderate",
+    "very_active_mins": 7,
+    "steps": 14450
+  },
+  {
+    "id": 6117666160,
+    "calories": 2225,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 7150
+  },
+  {
+    "id": 6117666160,
+    "calories": 2018,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 5153
+  },
+  {
+    "id": 6117666160,
+    "calories": 2606,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 11135
+  },
+  {
+    "id": 6117666160,
+    "calories": 2536,
+    "segment": "moderate",
+    "very_active_mins": 26,
+    "steps": 10449
+  },
+  {
+    "id": 6117666160,
+    "calories": 4900,
+    "segment": "moderate",
+    "very_active_mins": 11,
+    "steps": 19542
+  },
+  {
+    "id": 6117666160,
+    "calories": 2409,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 8206
+  },
+  {
+    "id": 6117666160,
+    "calories": 2651,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 11495
+  },
+  {
+    "id": 6117666160,
+    "calories": 2305,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 7623
+  },
+  {
+    "id": 6117666160,
+    "calories": 1497,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 6117666160,
+    "calories": 2450,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 9543
+  },
+  {
+    "id": 6117666160,
+    "calories": 2576,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 9411
+  },
+  {
+    "id": 6117666160,
+    "calories": 1879,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 3403
+  },
+  {
+    "id": 6117666160,
+    "calories": 2560,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 9592
+  },
+  {
+    "id": 6117666160,
+    "calories": 2275,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 6987
+  },
+  {
+    "id": 6117666160,
+    "calories": 2361,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 8915
+  },
+  {
+    "id": 6117666160,
+    "calories": 2044,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 4933
+  },
+  {
+    "id": 6117666160,
+    "calories": 1496,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 6117666160,
+    "calories": 1902,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 2997
+  },
+  {
+    "id": 6117666160,
+    "calories": 2636,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 9799
+  },
+  {
+    "id": 6117666160,
+    "calories": 1838,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 3365
+  },
+  {
+    "id": 6117666160,
+    "calories": 2469,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 7336
+  },
+  {
+    "id": 6117666160,
+    "calories": 2250,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 7328
+  },
+  {
+    "id": 6117666160,
+    "calories": 1248,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 4477
+  },
+  {
+    "id": 6290855005,
+    "calories": 2560,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 4562
+  },
+  {
+    "id": 6290855005,
+    "calories": 2905,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 7142
+  },
+  {
+    "id": 6290855005,
+    "calories": 2952,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 7671
+  },
+  {
+    "id": 6290855005,
+    "calories": 2896,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 9501
+  },
+  {
+    "id": 6290855005,
+    "calories": 2783,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 8301
+  },
+  {
+    "id": 6290855005,
+    "calories": 3171,
+    "segment": "sedentary",
+    "very_active_mins": 31,
+    "steps": 7851
+  },
+  {
+    "id": 6290855005,
+    "calories": 2766,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 6885
+  },
+  {
+    "id": 6290855005,
+    "calories": 2839,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 7142
+  },
+  {
+    "id": 6290855005,
+    "calories": 2701,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 6361
+  },
+  {
+    "id": 6290855005,
+    "calories": 2060,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 6290855005,
+    "calories": 2796,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 6238
+  },
+  {
+    "id": 6290855005,
+    "calories": 2664,
+    "segment": "sedentary",
+    "very_active_mins": 33,
+    "steps": 0
+  },
+  {
+    "id": 6290855005,
+    "calories": 2703,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 5896
+  },
+  {
+    "id": 6290855005,
+    "calories": 2771,
+    "segment": "sedentary",
+    "very_active_mins": 8,
+    "steps": 7802
+  },
+  {
+    "id": 6290855005,
+    "calories": 2060,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 6290855005,
+    "calories": 2743,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 5565
+  },
+  {
+    "id": 6290855005,
+    "calories": 2687,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 5731
+  },
+  {
+    "id": 6290855005,
+    "calories": 2060,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 6290855005,
+    "calories": 2843,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 6744
+  },
+  {
+    "id": 6290855005,
+    "calories": 3327,
+    "segment": "sedentary",
+    "very_active_mins": 8,
+    "steps": 9837
+  },
+  {
+    "id": 6290855005,
+    "calories": 2725,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 6781
+  },
+  {
+    "id": 6290855005,
+    "calories": 2671,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 6047
+  },
+  {
+    "id": 6290855005,
+    "calories": 2718,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 5832
+  },
+  {
+    "id": 6290855005,
+    "calories": 2682,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 6339
+  },
+  {
+    "id": 6290855005,
+    "calories": 2806,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 6116
+  },
+  {
+    "id": 6290855005,
+    "calories": 2613,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 5510
+  },
+  {
+    "id": 6290855005,
+    "calories": 2712,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 7706
+  },
+  {
+    "id": 6290855005,
+    "calories": 2175,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 6277
+  },
+  {
+    "id": 6775888955,
+    "calories": 1841,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 6775888955,
+    "calories": 2400,
+    "segment": "sedentary",
+    "very_active_mins": 17,
+    "steps": 4053
+  },
+  {
+    "id": 6775888955,
+    "calories": 2507,
+    "segment": "sedentary",
+    "very_active_mins": 14,
+    "steps": 5162
+  },
+  {
+    "id": 6775888955,
+    "calories": 2127,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 1282
+  },
+  {
+    "id": 6775888955,
+    "calories": 2225,
+    "segment": "sedentary",
+    "very_active_mins": 36,
+    "steps": 4732
+  },
+  {
+    "id": 6775888955,
+    "calories": 2067,
+    "segment": "sedentary",
+    "very_active_mins": 5,
+    "steps": 2497
+  },
+  {
+    "id": 6775888955,
+    "calories": 2798,
+    "segment": "sedentary",
+    "very_active_mins": 30,
+    "steps": 8294
+  },
+  {
+    "id": 6775888955,
+    "calories": 1841,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 6775888955,
+    "calories": 3727,
+    "segment": "sedentary",
+    "very_active_mins": 70,
+    "steps": 10771
+  },
+  {
+    "id": 6775888955,
+    "calories": 1841,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 6775888955,
+    "calories": 1922,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 637
+  },
+  {
+    "id": 6775888955,
+    "calories": 1841,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 6775888955,
+    "calories": 2053,
+    "segment": "sedentary",
+    "very_active_mins": 11,
+    "steps": 2153
+  },
+  {
+    "id": 6775888955,
+    "calories": 2484,
+    "segment": "sedentary",
+    "very_active_mins": 33,
+    "steps": 6474
+  },
+  {
+    "id": 6775888955,
+    "calories": 2584,
+    "segment": "sedentary",
+    "very_active_mins": 42,
+    "steps": 7091
+  },
+  {
+    "id": 6775888955,
+    "calories": 1841,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 6775888955,
+    "calories": 1993,
+    "segment": "sedentary",
+    "very_active_mins": 2,
+    "steps": 703
+  },
+  {
+    "id": 6775888955,
+    "calories": 1841,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 6775888955,
+    "calories": 2280,
+    "segment": "sedentary",
+    "very_active_mins": 3,
+    "steps": 2503
+  },
+  {
+    "id": 6775888955,
+    "calories": 2319,
+    "segment": "sedentary",
+    "very_active_mins": 9,
+    "steps": 2487
+  },
+  {
+    "id": 6775888955,
+    "calories": 1841,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 6775888955,
+    "calories": 1843,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 9
+  },
+  {
+    "id": 6775888955,
+    "calories": 1841,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 6775888955,
+    "calories": 1841,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 6775888955,
+    "calories": 2496,
+    "segment": "sedentary",
+    "very_active_mins": 12,
+    "steps": 4697
+  },
+  {
+    "id": 6775888955,
+    "calories": 1032,
+    "segment": "sedentary",
+    "very_active_mins": 2,
+    "steps": 1967
+  },
+  {
+    "id": 6962181067,
+    "calories": 1718,
+    "segment": "high",
+    "very_active_mins": 8,
+    "steps": 5652
+  },
+  {
+    "id": 6962181067,
+    "calories": 1466,
+    "segment": "high",
+    "very_active_mins": 0,
+    "steps": 1551
+  },
+  {
+    "id": 6962181067,
+    "calories": 1756,
+    "segment": "high",
+    "very_active_mins": 0,
+    "steps": 5563
+  },
+  {
+    "id": 6962181067,
+    "calories": 2173,
+    "segment": "high",
+    "very_active_mins": 50,
+    "steps": 13217
+  },
+  {
+    "id": 6962181067,
+    "calories": 2027,
+    "segment": "high",
+    "very_active_mins": 5,
+    "steps": 10145
+  },
+  {
+    "id": 6962181067,
+    "calories": 2039,
+    "segment": "high",
+    "very_active_mins": 13,
+    "steps": 11404
+  },
+  {
+    "id": 6962181067,
+    "calories": 2046,
+    "segment": "high",
+    "very_active_mins": 35,
+    "steps": 10742
+  },
+  {
+    "id": 6962181067,
+    "calories": 2174,
+    "segment": "high",
+    "very_active_mins": 48,
+    "steps": 13928
+  },
+  {
+    "id": 6962181067,
+    "calories": 2179,
+    "segment": "high",
+    "very_active_mins": 53,
+    "steps": 11835
+  },
+  {
+    "id": 6962181067,
+    "calories": 2086,
+    "segment": "high",
+    "very_active_mins": 30,
+    "steps": 10725
+  },
+  {
+    "id": 6962181067,
+    "calories": 2571,
+    "segment": "high",
+    "very_active_mins": 58,
+    "steps": 20031
+  },
+  {
+    "id": 6962181067,
+    "calories": 1705,
+    "segment": "high",
+    "very_active_mins": 0,
+    "steps": 5029
+  },
+  {
+    "id": 6962181067,
+    "calories": 2194,
+    "segment": "high",
+    "very_active_mins": 35,
+    "steps": 13239
+  },
+  {
+    "id": 6962181067,
+    "calories": 2012,
+    "segment": "high",
+    "very_active_mins": 36,
+    "steps": 10433
+  },
+  {
+    "id": 6962181067,
+    "calories": 2034,
+    "segment": "high",
+    "very_active_mins": 7,
+    "steps": 10320
+  },
+  {
+    "id": 6962181067,
+    "calories": 2182,
+    "segment": "high",
+    "very_active_mins": 38,
+    "steps": 12627
+  },
+  {
+    "id": 6962181067,
+    "calories": 2254,
+    "segment": "high",
+    "very_active_mins": 12,
+    "steps": 10762
+  },
+  {
+    "id": 6962181067,
+    "calories": 2002,
+    "segment": "high",
+    "very_active_mins": 32,
+    "steps": 10081
+  },
+  {
+    "id": 6962181067,
+    "calories": 1740,
+    "segment": "high",
+    "very_active_mins": 0,
+    "steps": 5454
+  },
+  {
+    "id": 6962181067,
+    "calories": 2162,
+    "segment": "high",
+    "very_active_mins": 18,
+    "steps": 12912
+  },
+  {
+    "id": 6962181067,
+    "calories": 2072,
+    "segment": "high",
+    "very_active_mins": 21,
+    "steps": 12109
+  },
+  {
+    "id": 6962181067,
+    "calories": 2086,
+    "segment": "high",
+    "very_active_mins": 15,
+    "steps": 10147
+  },
+  {
+    "id": 6962181067,
+    "calories": 2066,
+    "segment": "high",
+    "very_active_mins": 14,
+    "steps": 10524
+  },
+  {
+    "id": 6962181067,
+    "calories": 1850,
+    "segment": "high",
+    "very_active_mins": 0,
+    "steps": 5908
+  },
+  {
+    "id": 6962181067,
+    "calories": 1947,
+    "segment": "high",
+    "very_active_mins": 0,
+    "steps": 6815
+  },
+  {
+    "id": 6962181067,
+    "calories": 1659,
+    "segment": "high",
+    "very_active_mins": 0,
+    "steps": 4188
+  },
+  {
+    "id": 6962181067,
+    "calories": 2105,
+    "segment": "high",
+    "very_active_mins": 43,
+    "steps": 12342
+  },
+  {
+    "id": 6962181067,
+    "calories": 2361,
+    "segment": "high",
+    "very_active_mins": 62,
+    "steps": 15448
+  },
+  {
+    "id": 6962181067,
+    "calories": 1855,
+    "segment": "high",
+    "very_active_mins": 24,
+    "steps": 6722
+  },
+  {
+    "id": 6962181067,
+    "calories": 928,
+    "segment": "high",
+    "very_active_mins": 0,
+    "steps": 3587
+  },
+  {
+    "id": 7007744171,
+    "calories": 2742,
+    "segment": "high",
+    "very_active_mins": 56,
+    "steps": 12862
+  },
+  {
+    "id": 7007744171,
+    "calories": 2668,
+    "segment": "high",
+    "very_active_mins": 34,
+    "steps": 11179
+  },
+  {
+    "id": 7007744171,
+    "calories": 2098,
+    "segment": "high",
+    "very_active_mins": 0,
+    "steps": 5273
+  },
+  {
+    "id": 7007744171,
+    "calories": 2076,
+    "segment": "high",
+    "very_active_mins": 0,
+    "steps": 4631
+  },
+  {
+    "id": 7007744171,
+    "calories": 2383,
+    "segment": "high",
+    "very_active_mins": 0,
+    "steps": 8059
+  },
+  {
+    "id": 7007744171,
+    "calories": 2832,
+    "segment": "high",
+    "very_active_mins": 48,
+    "steps": 14816
+  },
+  {
+    "id": 7007744171,
+    "calories": 2812,
+    "segment": "high",
+    "very_active_mins": 53,
+    "steps": 14194
+  },
+  {
+    "id": 7007744171,
+    "calories": 3096,
+    "segment": "high",
+    "very_active_mins": 60,
+    "steps": 15566
+  },
+  {
+    "id": 7007744171,
+    "calories": 2763,
+    "segment": "high",
+    "very_active_mins": 30,
+    "steps": 13744
+  },
+  {
+    "id": 7007744171,
+    "calories": 2889,
+    "segment": "high",
+    "very_active_mins": 64,
+    "steps": 15299
+  },
+  {
+    "id": 7007744171,
+    "calories": 2284,
+    "segment": "high",
+    "very_active_mins": 2,
+    "steps": 8093
+  },
+  {
+    "id": 7007744171,
+    "calories": 2667,
+    "segment": "high",
+    "very_active_mins": 0,
+    "steps": 11085
+  },
+  {
+    "id": 7007744171,
+    "calories": 3055,
+    "segment": "high",
+    "very_active_mins": 51,
+    "steps": 18229
+  },
+  {
+    "id": 7007744171,
+    "calories": 2939,
+    "segment": "high",
+    "very_active_mins": 16,
+    "steps": 15090
+  },
+  {
+    "id": 7007744171,
+    "calories": 2830,
+    "segment": "high",
+    "very_active_mins": 50,
+    "steps": 13541
+  },
+  {
+    "id": 7007744171,
+    "calories": 2836,
+    "segment": "high",
+    "very_active_mins": 16,
+    "steps": 15128
+  },
+  {
+    "id": 7007744171,
+    "calories": 3180,
+    "segment": "high",
+    "very_active_mins": 55,
+    "steps": 20067
+  },
+  {
+    "id": 7007744171,
+    "calories": 2051,
+    "segment": "high",
+    "very_active_mins": 0,
+    "steps": 3761
+  },
+  {
+    "id": 7007744171,
+    "calories": 2225,
+    "segment": "high",
+    "very_active_mins": 0,
+    "steps": 5600
+  },
+  {
+    "id": 7007744171,
+    "calories": 2642,
+    "segment": "high",
+    "very_active_mins": 64,
+    "steps": 13041
+  },
+  {
+    "id": 7007744171,
+    "calories": 2976,
+    "segment": "high",
+    "very_active_mins": 58,
+    "steps": 14510
+  },
+  {
+    "id": 7007744171,
+    "calories": 1557,
+    "segment": "high",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 7007744171,
+    "calories": 2933,
+    "segment": "high",
+    "very_active_mins": 53,
+    "steps": 15010
+  },
+  {
+    "id": 7007744171,
+    "calories": 2553,
+    "segment": "high",
+    "very_active_mins": 44,
+    "steps": 11459
+  },
+  {
+    "id": 7007744171,
+    "calories": 120,
+    "segment": "high",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 7086361926,
+    "calories": 2516,
+    "segment": "moderate",
+    "very_active_mins": 31,
+    "steps": 5813
+  },
+  {
+    "id": 7086361926,
+    "calories": 2734,
+    "segment": "moderate",
+    "very_active_mins": 35,
+    "steps": 9123
+  },
+  {
+    "id": 7086361926,
+    "calories": 2395,
+    "segment": "moderate",
+    "very_active_mins": 30,
+    "steps": 8585
+  },
+  {
+    "id": 7086361926,
+    "calories": 1635,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 31
+  },
+  {
+    "id": 7086361926,
+    "calories": 1629,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 7086361926,
+    "calories": 2743,
+    "segment": "moderate",
+    "very_active_mins": 61,
+    "steps": 9827
+  },
+  {
+    "id": 7086361926,
+    "calories": 2944,
+    "segment": "moderate",
+    "very_active_mins": 67,
+    "steps": 10688
+  },
+  {
+    "id": 7086361926,
+    "calories": 2997,
+    "segment": "moderate",
+    "very_active_mins": 87,
+    "steps": 14365
+  },
+  {
+    "id": 7086361926,
+    "calories": 2463,
+    "segment": "moderate",
+    "very_active_mins": 19,
+    "steps": 9469
+  },
+  {
+    "id": 7086361926,
+    "calories": 2846,
+    "segment": "moderate",
+    "very_active_mins": 58,
+    "steps": 9753
+  },
+  {
+    "id": 7086361926,
+    "calories": 1965,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 2817
+  },
+  {
+    "id": 7086361926,
+    "calories": 2049,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 3520
+  },
+  {
+    "id": 7086361926,
+    "calories": 2752,
+    "segment": "moderate",
+    "very_active_mins": 69,
+    "steps": 10091
+  },
+  {
+    "id": 7086361926,
+    "calories": 2781,
+    "segment": "moderate",
+    "very_active_mins": 70,
+    "steps": 10387
+  },
+  {
+    "id": 7086361926,
+    "calories": 2693,
+    "segment": "moderate",
+    "very_active_mins": 55,
+    "steps": 11107
+  },
+  {
+    "id": 7086361926,
+    "calories": 2862,
+    "segment": "moderate",
+    "very_active_mins": 54,
+    "steps": 11584
+  },
+  {
+    "id": 7086361926,
+    "calories": 2616,
+    "segment": "moderate",
+    "very_active_mins": 24,
+    "steps": 7881
+  },
+  {
+    "id": 7086361926,
+    "calories": 2995,
+    "segment": "moderate",
+    "very_active_mins": 42,
+    "steps": 14560
+  },
+  {
+    "id": 7086361926,
+    "calories": 2730,
+    "segment": "moderate",
+    "very_active_mins": 30,
+    "steps": 12390
+  },
+  {
+    "id": 7086361926,
+    "calories": 2754,
+    "segment": "moderate",
+    "very_active_mins": 66,
+    "steps": 10052
+  },
+  {
+    "id": 7086361926,
+    "calories": 2754,
+    "segment": "moderate",
+    "very_active_mins": 57,
+    "steps": 10288
+  },
+  {
+    "id": 7086361926,
+    "calories": 2655,
+    "segment": "moderate",
+    "very_active_mins": 45,
+    "steps": 10988
+  },
+  {
+    "id": 7086361926,
+    "calories": 2386,
+    "segment": "moderate",
+    "very_active_mins": 24,
+    "steps": 8564
+  },
+  {
+    "id": 7086361926,
+    "calories": 2924,
+    "segment": "moderate",
+    "very_active_mins": 84,
+    "steps": 12461
+  },
+  {
+    "id": 7086361926,
+    "calories": 2739,
+    "segment": "moderate",
+    "very_active_mins": 20,
+    "steps": 12827
+  },
+  {
+    "id": 7086361926,
+    "calories": 2534,
+    "segment": "moderate",
+    "very_active_mins": 32,
+    "steps": 10677
+  },
+  {
+    "id": 7086361926,
+    "calories": 2960,
+    "segment": "moderate",
+    "very_active_mins": 67,
+    "steps": 13566
+  },
+  {
+    "id": 7086361926,
+    "calories": 2800,
+    "segment": "moderate",
+    "very_active_mins": 72,
+    "steps": 14433
+  },
+  {
+    "id": 7086361926,
+    "calories": 2735,
+    "segment": "moderate",
+    "very_active_mins": 57,
+    "steps": 9572
+  },
+  {
+    "id": 7086361926,
+    "calories": 1199,
+    "segment": "moderate",
+    "very_active_mins": 5,
+    "steps": 3789
+  },
+  {
+    "id": 8053475328,
+    "calories": 3140,
+    "segment": "high",
+    "very_active_mins": 95,
+    "steps": 16433
+  },
+  {
+    "id": 8053475328,
+    "calories": 3411,
+    "segment": "high",
+    "very_active_mins": 119,
+    "steps": 20159
+  },
+  {
+    "id": 8053475328,
+    "calories": 3410,
+    "segment": "high",
+    "very_active_mins": 132,
+    "steps": 20669
+  },
+  {
+    "id": 8053475328,
+    "calories": 2867,
+    "segment": "high",
+    "very_active_mins": 96,
+    "steps": 14549
+  },
+  {
+    "id": 8053475328,
+    "calories": 3213,
+    "segment": "high",
+    "very_active_mins": 111,
+    "steps": 18827
+  },
+  {
+    "id": 8053475328,
+    "calories": 3133,
+    "segment": "high",
+    "very_active_mins": 102,
+    "steps": 17076
+  },
+  {
+    "id": 8053475328,
+    "calories": 3114,
+    "segment": "high",
+    "very_active_mins": 90,
+    "steps": 15929
+  },
+  {
+    "id": 8053475328,
+    "calories": 3043,
+    "segment": "high",
+    "very_active_mins": 89,
+    "steps": 15108
+  },
+  {
+    "id": 8053475328,
+    "calories": 3103,
+    "segment": "high",
+    "very_active_mins": 100,
+    "steps": 16057
+  },
+  {
+    "id": 8053475328,
+    "calories": 2655,
+    "segment": "high",
+    "very_active_mins": 60,
+    "steps": 10520
+  },
+  {
+    "id": 8053475328,
+    "calories": 3554,
+    "segment": "high",
+    "very_active_mins": 125,
+    "steps": 22359
+  },
+  {
+    "id": 8053475328,
+    "calories": 3577,
+    "segment": "high",
+    "very_active_mins": 129,
+    "steps": 22988
+  },
+  {
+    "id": 8053475328,
+    "calories": 3403,
+    "segment": "high",
+    "very_active_mins": 118,
+    "steps": 20500
+  },
+  {
+    "id": 8053475328,
+    "calories": 2846,
+    "segment": "high",
+    "very_active_mins": 68,
+    "steps": 12685
+  },
+  {
+    "id": 8053475328,
+    "calories": 2852,
+    "segment": "high",
+    "very_active_mins": 60,
+    "steps": 12422
+  },
+  {
+    "id": 8053475328,
+    "calories": 3062,
+    "segment": "high",
+    "very_active_mins": 90,
+    "steps": 15447
+  },
+  {
+    "id": 8053475328,
+    "calories": 2794,
+    "segment": "high",
+    "very_active_mins": 58,
+    "steps": 12315
+  },
+  {
+    "id": 8053475328,
+    "calories": 2408,
+    "segment": "high",
+    "very_active_mins": 27,
+    "steps": 7135
+  },
+  {
+    "id": 8053475328,
+    "calories": 1886,
+    "segment": "high",
+    "very_active_mins": 0,
+    "steps": 1170
+  },
+  {
+    "id": 8053475328,
+    "calories": 1988,
+    "segment": "high",
+    "very_active_mins": 0,
+    "steps": 1969
+  },
+  {
+    "id": 8053475328,
+    "calories": 3023,
+    "segment": "high",
+    "very_active_mins": 87,
+    "steps": 15484
+  },
+  {
+    "id": 8053475328,
+    "calories": 2918,
+    "segment": "high",
+    "very_active_mins": 89,
+    "steps": 14581
+  },
+  {
+    "id": 8053475328,
+    "calories": 2950,
+    "segment": "high",
+    "very_active_mins": 93,
+    "steps": 14990
+  },
+  {
+    "id": 8053475328,
+    "calories": 2859,
+    "segment": "high",
+    "very_active_mins": 90,
+    "steps": 13953
+  },
+  {
+    "id": 8053475328,
+    "calories": 3331,
+    "segment": "high",
+    "very_active_mins": 121,
+    "steps": 19769
+  },
+  {
+    "id": 8053475328,
+    "calories": 3589,
+    "segment": "high",
+    "very_active_mins": 125,
+    "steps": 22026
+  },
+  {
+    "id": 8053475328,
+    "calories": 2765,
+    "segment": "high",
+    "very_active_mins": 66,
+    "steps": 12465
+  },
+  {
+    "id": 8053475328,
+    "calories": 2926,
+    "segment": "high",
+    "very_active_mins": 96,
+    "steps": 14810
+  },
+  {
+    "id": 8053475328,
+    "calories": 2809,
+    "segment": "high",
+    "very_active_mins": 60,
+    "steps": 12209
+  },
+  {
+    "id": 8053475328,
+    "calories": 1505,
+    "segment": "high",
+    "very_active_mins": 28,
+    "steps": 4998
+  },
+  {
+    "id": 8253242879,
+    "calories": 1935,
+    "segment": "moderate",
+    "very_active_mins": 35,
+    "steps": 8053
+  },
+  {
+    "id": 8253242879,
+    "calories": 1705,
+    "segment": "moderate",
+    "very_active_mins": 29,
+    "steps": 5234
+  },
+  {
+    "id": 8253242879,
+    "calories": 1632,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 2672
+  },
+  {
+    "id": 8253242879,
+    "calories": 1880,
+    "segment": "moderate",
+    "very_active_mins": 6,
+    "steps": 9256
+  },
+  {
+    "id": 8253242879,
+    "calories": 2112,
+    "segment": "moderate",
+    "very_active_mins": 41,
+    "steps": 10204
+  },
+  {
+    "id": 8253242879,
+    "calories": 1829,
+    "segment": "moderate",
+    "very_active_mins": 16,
+    "steps": 5151
+  },
+  {
+    "id": 8253242879,
+    "calories": 1763,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 4212
+  },
+  {
+    "id": 8253242879,
+    "calories": 1931,
+    "segment": "moderate",
+    "very_active_mins": 5,
+    "steps": 6466
+  },
+  {
+    "id": 8253242879,
+    "calories": 2218,
+    "segment": "moderate",
+    "very_active_mins": 49,
+    "steps": 11268
+  },
+  {
+    "id": 8253242879,
+    "calories": 1651,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 2824
+  },
+  {
+    "id": 8253242879,
+    "calories": 2132,
+    "segment": "moderate",
+    "very_active_mins": 30,
+    "steps": 9282
+  },
+  {
+    "id": 8253242879,
+    "calories": 1976,
+    "segment": "moderate",
+    "very_active_mins": 41,
+    "steps": 8905
+  },
+  {
+    "id": 8253242879,
+    "calories": 1909,
+    "segment": "moderate",
+    "very_active_mins": 7,
+    "steps": 6829
+  },
+  {
+    "id": 8253242879,
+    "calories": 1813,
+    "segment": "moderate",
+    "very_active_mins": 19,
+    "steps": 4562
+  },
+  {
+    "id": 8253242879,
+    "calories": 2008,
+    "segment": "moderate",
+    "very_active_mins": 45,
+    "steps": 10232
+  },
+  {
+    "id": 8253242879,
+    "calories": 1580,
+    "segment": "moderate",
+    "very_active_mins": 11,
+    "steps": 2718
+  },
+  {
+    "id": 8253242879,
+    "calories": 1854,
+    "segment": "moderate",
+    "very_active_mins": 16,
+    "steps": 6260
+  },
+  {
+    "id": 8378563200,
+    "calories": 4079,
+    "segment": "moderate",
+    "very_active_mins": 116,
+    "steps": 12386
+  },
+  {
+    "id": 8378563200,
+    "calories": 4163,
+    "segment": "moderate",
+    "very_active_mins": 123,
+    "steps": 13318
+  },
+  {
+    "id": 8378563200,
+    "calories": 3666,
+    "segment": "moderate",
+    "very_active_mins": 60,
+    "steps": 14461
+  },
+  {
+    "id": 8378563200,
+    "calories": 3363,
+    "segment": "moderate",
+    "very_active_mins": 64,
+    "steps": 11207
+  },
+  {
+    "id": 8378563200,
+    "calories": 2572,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 2132
+  },
+  {
+    "id": 8378563200,
+    "calories": 4157,
+    "segment": "moderate",
+    "very_active_mins": 117,
+    "steps": 13630
+  },
+  {
+    "id": 8378563200,
+    "calories": 4092,
+    "segment": "moderate",
+    "very_active_mins": 120,
+    "steps": 13070
+  },
+  {
+    "id": 8378563200,
+    "calories": 3787,
+    "segment": "moderate",
+    "very_active_mins": 82,
+    "steps": 9388
+  },
+  {
+    "id": 8378563200,
+    "calories": 4236,
+    "segment": "moderate",
+    "very_active_mins": 137,
+    "steps": 15148
+  },
+  {
+    "id": 8378563200,
+    "calories": 4044,
+    "segment": "moderate",
+    "very_active_mins": 113,
+    "steps": 12200
+  },
+  {
+    "id": 8378563200,
+    "calories": 2908,
+    "segment": "moderate",
+    "very_active_mins": 19,
+    "steps": 5709
+  },
+  {
+    "id": 8378563200,
+    "calories": 2741,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 3703
+  },
+  {
+    "id": 8378563200,
+    "calories": 4005,
+    "segment": "moderate",
+    "very_active_mins": 117,
+    "steps": 12405
+  },
+  {
+    "id": 8378563200,
+    "calories": 3763,
+    "segment": "moderate",
+    "very_active_mins": 90,
+    "steps": 16208
+  },
+  {
+    "id": 8378563200,
+    "calories": 3061,
+    "segment": "moderate",
+    "very_active_mins": 4,
+    "steps": 7359
+  },
+  {
+    "id": 8378563200,
+    "calories": 2884,
+    "segment": "moderate",
+    "very_active_mins": 11,
+    "steps": 5417
+  },
+  {
+    "id": 8378563200,
+    "calories": 2982,
+    "segment": "moderate",
+    "very_active_mins": 3,
+    "steps": 6175
+  },
+  {
+    "id": 8378563200,
+    "calories": 2660,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 2946
+  },
+  {
+    "id": 8378563200,
+    "calories": 3369,
+    "segment": "moderate",
+    "very_active_mins": 71,
+    "steps": 11419
+  },
+  {
+    "id": 8378563200,
+    "calories": 3491,
+    "segment": "moderate",
+    "very_active_mins": 63,
+    "steps": 6064
+  },
+  {
+    "id": 8378563200,
+    "calories": 3784,
+    "segment": "moderate",
+    "very_active_mins": 71,
+    "steps": 8712
+  },
+  {
+    "id": 8378563200,
+    "calories": 3110,
+    "segment": "moderate",
+    "very_active_mins": 19,
+    "steps": 7875
+  },
+  {
+    "id": 8378563200,
+    "calories": 3783,
+    "segment": "moderate",
+    "very_active_mins": 66,
+    "steps": 8567
+  },
+  {
+    "id": 8378563200,
+    "calories": 3644,
+    "segment": "moderate",
+    "very_active_mins": 74,
+    "steps": 7045
+  },
+  {
+    "id": 8378563200,
+    "calories": 2799,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 4468
+  },
+  {
+    "id": 8378563200,
+    "calories": 2685,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 2943
+  },
+  {
+    "id": 8378563200,
+    "calories": 3721,
+    "segment": "moderate",
+    "very_active_mins": 71,
+    "steps": 8382
+  },
+  {
+    "id": 8378563200,
+    "calories": 3586,
+    "segment": "moderate",
+    "very_active_mins": 63,
+    "steps": 6582
+  },
+  {
+    "id": 8378563200,
+    "calories": 3788,
+    "segment": "moderate",
+    "very_active_mins": 72,
+    "steps": 9143
+  },
+  {
+    "id": 8378563200,
+    "calories": 1976,
+    "segment": "moderate",
+    "very_active_mins": 8,
+    "steps": 4561
+  },
+  {
+    "id": 8583815059,
+    "calories": 2650,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 5014
+  },
+  {
+    "id": 8583815059,
+    "calories": 2654,
+    "segment": "moderate",
+    "very_active_mins": 2,
+    "steps": 5571
+  },
+  {
+    "id": 8583815059,
+    "calories": 2443,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 3135
+  },
+  {
+    "id": 8583815059,
+    "calories": 2505,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 3430
+  },
+  {
+    "id": 8583815059,
+    "calories": 2693,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 5319
+  },
+  {
+    "id": 8583815059,
+    "calories": 2439,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 3008
+  },
+  {
+    "id": 8583815059,
+    "calories": 2536,
+    "segment": "moderate",
+    "very_active_mins": 4,
+    "steps": 3864
+  },
+  {
+    "id": 8583815059,
+    "calories": 2668,
+    "segment": "moderate",
+    "very_active_mins": 7,
+    "steps": 5697
+  },
+  {
+    "id": 8583815059,
+    "calories": 2647,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 5273
+  },
+  {
+    "id": 8583815059,
+    "calories": 2883,
+    "segment": "moderate",
+    "very_active_mins": 35,
+    "steps": 8538
+  },
+  {
+    "id": 8583815059,
+    "calories": 2944,
+    "segment": "moderate",
+    "very_active_mins": 4,
+    "steps": 8687
+  },
+  {
+    "id": 8583815059,
+    "calories": 3012,
+    "segment": "moderate",
+    "very_active_mins": 7,
+    "steps": 9423
+  },
+  {
+    "id": 8583815059,
+    "calories": 2889,
+    "segment": "moderate",
+    "very_active_mins": 2,
+    "steps": 8286
+  },
+  {
+    "id": 8583815059,
+    "calories": 2547,
+    "segment": "moderate",
+    "very_active_mins": 18,
+    "steps": 4503
+  },
+  {
+    "id": 8583815059,
+    "calories": 3093,
+    "segment": "moderate",
+    "very_active_mins": 1,
+    "steps": 10499
+  },
+  {
+    "id": 8583815059,
+    "calories": 3142,
+    "segment": "moderate",
+    "very_active_mins": 77,
+    "steps": 12474
+  },
+  {
+    "id": 8583815059,
+    "calories": 2757,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 6174
+  },
+  {
+    "id": 8583815059,
+    "calories": 3513,
+    "segment": "moderate",
+    "very_active_mins": 46,
+    "steps": 15168
+  },
+  {
+    "id": 8583815059,
+    "calories": 3164,
+    "segment": "moderate",
+    "very_active_mins": 2,
+    "steps": 10085
+  },
+  {
+    "id": 8583815059,
+    "calories": 2596,
+    "segment": "moderate",
+    "very_active_mins": 10,
+    "steps": 4512
+  },
+  {
+    "id": 8583815059,
+    "calories": 2894,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 8469
+  },
+  {
+    "id": 8583815059,
+    "calories": 3212,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 12015
+  },
+  {
+    "id": 8583815059,
+    "calories": 2516,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 3588
+  },
+  {
+    "id": 8583815059,
+    "calories": 3266,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 12427
+  },
+  {
+    "id": 8583815059,
+    "calories": 2683,
+    "segment": "moderate",
+    "very_active_mins": 2,
+    "steps": 5843
+  },
+  {
+    "id": 8583815059,
+    "calories": 2810,
+    "segment": "moderate",
+    "very_active_mins": 0,
+    "steps": 6117
+  },
+  {
+    "id": 8583815059,
+    "calories": 2940,
+    "segment": "moderate",
+    "very_active_mins": 3,
+    "steps": 9217
+  },
+  {
+    "id": 8583815059,
+    "calories": 2947,
+    "segment": "moderate",
+    "very_active_mins": 66,
+    "steps": 9877
+  },
+  {
+    "id": 8583815059,
+    "calories": 2846,
+    "segment": "moderate",
+    "very_active_mins": 9,
+    "steps": 8240
+  },
+  {
+    "id": 8583815059,
+    "calories": 2804,
+    "segment": "moderate",
+    "very_active_mins": 5,
+    "steps": 8701
+  },
+  {
+    "id": 8792009665,
+    "calories": 1934,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 1320
+  },
+  {
+    "id": 8792009665,
+    "calories": 1963,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 1219
+  },
+  {
+    "id": 8792009665,
+    "calories": 2009,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 2483
+  },
+  {
+    "id": 8792009665,
+    "calories": 1721,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 244
+  },
+  {
+    "id": 8792009665,
+    "calories": 1688,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 8792009665,
+    "calories": 1688,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 8792009665,
+    "calories": 1688,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 8792009665,
+    "calories": 2188,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 3147
+  },
+  {
+    "id": 8792009665,
+    "calories": 1720,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 144
+  },
+  {
+    "id": 8792009665,
+    "calories": 2419,
+    "segment": "sedentary",
+    "very_active_mins": 1,
+    "steps": 4068
+  },
+  {
+    "id": 8792009665,
+    "calories": 2748,
+    "segment": "sedentary",
+    "very_active_mins": 8,
+    "steps": 5245
+  },
+  {
+    "id": 8792009665,
+    "calories": 1799,
+    "segment": "sedentary",
+    "very_active_mins": 3,
+    "steps": 400
+  },
+  {
+    "id": 8792009665,
+    "calories": 1688,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 8792009665,
+    "calories": 1928,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 1321
+  },
+  {
+    "id": 8792009665,
+    "calories": 2067,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 1758
+  },
+  {
+    "id": 8792009665,
+    "calories": 2780,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 6157
+  },
+  {
+    "id": 8792009665,
+    "calories": 3101,
+    "segment": "sedentary",
+    "very_active_mins": 6,
+    "steps": 8360
+  },
+  {
+    "id": 8792009665,
+    "calories": 2896,
+    "segment": "sedentary",
+    "very_active_mins": 10,
+    "steps": 7174
+  },
+  {
+    "id": 8792009665,
+    "calories": 1962,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 1619
+  },
+  {
+    "id": 8792009665,
+    "calories": 2015,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 1831
+  },
+  {
+    "id": 8792009665,
+    "calories": 2297,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 2421
+  },
+  {
+    "id": 8792009665,
+    "calories": 2067,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 2283
+  },
+  {
+    "id": 8792009665,
+    "calories": 1688,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 8792009665,
+    "calories": 1688,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 8792009665,
+    "calories": 1688,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 8792009665,
+    "calories": 1688,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 8792009665,
+    "calories": 1688,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 8792009665,
+    "calories": 57,
+    "segment": "sedentary",
+    "very_active_mins": 0,
+    "steps": 0
+  },
+  {
+    "id": 8877689391,
+    "calories": 3566,
+    "segment": "high",
+    "very_active_mins": 108,
+    "steps": 15337
+  },
+  {
+    "id": 8877689391,
+    "calories": 3793,
+    "segment": "high",
+    "very_active_mins": 68,
+    "steps": 21129
+  },
+  {
+    "id": 8877689391,
+    "calories": 3934,
+    "segment": "high",
+    "very_active_mins": 106,
+    "steps": 13422
+  },
+  {
+    "id": 8877689391,
+    "calories": 4547,
+    "segment": "high",
+    "very_active_mins": 94,
+    "steps": 29326
+  },
+  {
+    "id": 8877689391,
+    "calories": 3545,
+    "segment": "high",
+    "very_active_mins": 58,
+    "steps": 15118
+  },
+  {
+    "id": 8877689391,
+    "calories": 2761,
+    "segment": "high",
+    "very_active_mins": 29,
+    "steps": 11423
+  },
+  {
+    "id": 8877689391,
+    "calories": 3676,
+    "segment": "high",
+    "very_active_mins": 82,
+    "steps": 18785
+  },
+  {
+    "id": 8877689391,
+    "calories": 3679,
+    "segment": "high",
+    "very_active_mins": 73,
+    "steps": 19948
+  },
+  {
+    "id": 8877689391,
+    "calories": 3659,
+    "segment": "high",
+    "very_active_mins": 82,
+    "steps": 19377
+  },
+  {
+    "id": 8877689391,
+    "calories": 3427,
+    "segment": "high",
+    "very_active_mins": 61,
+    "steps": 18258
+  },
+  {
+    "id": 8877689391,
+    "calories": 3891,
+    "segment": "high",
+    "very_active_mins": 102,
+    "steps": 11200
+  },
+  {
+    "id": 8877689391,
+    "calories": 3455,
+    "segment": "high",
+    "very_active_mins": 64,
+    "steps": 16674
+  },
+  {
+    "id": 8877689391,
+    "calories": 3802,
+    "segment": "high",
+    "very_active_mins": 113,
+    "steps": 12986
+  },
+  {
+    "id": 8877689391,
+    "calories": 2860,
+    "segment": "high",
+    "very_active_mins": 22,
+    "steps": 11101
+  },
+  {
+    "id": 8877689391,
+    "calories": 3808,
+    "segment": "high",
+    "very_active_mins": 93,
+    "steps": 23629
+  },
+  {
+    "id": 8877689391,
+    "calories": 3060,
+    "segment": "high",
+    "very_active_mins": 58,
+    "steps": 14890
+  },
+  {
+    "id": 8877689391,
+    "calories": 2698,
+    "segment": "high",
+    "very_active_mins": 18,
+    "steps": 9733
+  },
+  {
+    "id": 8877689391,
+    "calories": 4398,
+    "segment": "high",
+    "very_active_mins": 124,
+    "steps": 27745
+  },
+  {
+    "id": 8877689391,
+    "calories": 2786,
+    "segment": "high",
+    "very_active_mins": 36,
+    "steps": 10930
+  },
+  {
+    "id": 8877689391,
+    "calories": 2189,
+    "segment": "high",
+    "very_active_mins": 0,
+    "steps": 4790
+  },
+  {
+    "id": 8877689391,
+    "calories": 2817,
+    "segment": "high",
+    "very_active_mins": 19,
+    "steps": 10818
+  },
+  {
+    "id": 8877689391,
+    "calories": 3477,
+    "segment": "high",
+    "very_active_mins": 66,
+    "steps": 18193
+  },
+  {
+    "id": 8877689391,
+    "calories": 3052,
+    "segment": "high",
+    "very_active_mins": 67,
+    "steps": 14055
+  },
+  {
+    "id": 8877689391,
+    "calories": 4015,
+    "segment": "high",
+    "very_active_mins": 96,
+    "steps": 21727
+  },
+  {
+    "id": 8877689391,
+    "calories": 4142,
+    "segment": "high",
+    "very_active_mins": 105,
+    "steps": 12332
+  },
+  {
+    "id": 8877689391,
+    "calories": 2847,
+    "segment": "high",
+    "very_active_mins": 17,
+    "steps": 10686
+  },
+  {
+    "id": 8877689391,
+    "calories": 3710,
+    "segment": "high",
+    "very_active_mins": 73,
+    "steps": 20226
+  },
+  {
+    "id": 8877689391,
+    "calories": 2832,
+    "segment": "high",
+    "very_active_mins": 18,
+    "steps": 10733
+  },
+  {
+    "id": 8877689391,
+    "calories": 3832,
+    "segment": "high",
+    "very_active_mins": 88,
+    "steps": 21420
+  },
+  {
+    "id": 8877689391,
+    "calories": 1849,
+    "segment": "high",
+    "very_active_mins": 23,
+    "steps": 8064
+  }
+]
